@@ -1,0 +1,1577 @@
+[
+  {
+    "source_id": "E001",
+    "post_id": "1n2lu1a",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E001_1n2lu1a.md",
+    "saved_record_sha256": "61aaa0853c958850c42241ae18b8e73fa9922581028c6d06e35c16ee64c097e8",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E002",
+    "post_id": "jdhia8",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E002_jdhia8.md",
+    "saved_record_sha256": "0f709bc1587eb71fb4fd4b82f9e76527a96e3d44d3634c76a309ec113ee925e3",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E004",
+    "post_id": "1o7cudu",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E004_1o7cudu.md",
+    "saved_record_sha256": "b0429024babb6252150c0a616908f7c21b031b7990b192f274ac9eb1cb855ed6",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E005",
+    "post_id": "1ls4ka5",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E005_1ls4ka5.md",
+    "saved_record_sha256": "822ed8e938f6c08dc921475bed6cc49806d081d546248498fdcd08a57bb9d2f9",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E006",
+    "post_id": "tf54wj",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E006_tf54wj.md",
+    "saved_record_sha256": "6e36841f275f6e36610d85ff0995070af063d9dd45a4f5dc5f7411b42a164924",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E007",
+    "post_id": "1knfwnb",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E007_1knfwnb.md",
+    "saved_record_sha256": "e41113f21f5524f71a0947c4a8136bc6dec34100201c7ad2fa73a808efd6b072",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E008",
+    "post_id": "1q09bpo",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E008_1q09bpo.md",
+    "saved_record_sha256": "265d69b408f96d9fd3bff9f92002c662e7ac49dbef518b1bdf9241d573c0bb06",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E009",
+    "post_id": "lh35yf",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E009_lh35yf.md",
+    "saved_record_sha256": "cdf2fab63a8ae1159b3088d00318267c4b7236e36d42556e2a52d18ce2333a62",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E010",
+    "post_id": "1uy62uu",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E010_1uy62uu.md",
+    "saved_record_sha256": "56bad22e87a1d3352c8e199b29fbf55189d6a7161b96611cabf0f534bad4460d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E011",
+    "post_id": "ulv6xw",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E011_ulv6xw.md",
+    "saved_record_sha256": "0f957d0b6e3b27fef41603f060d9fe7b15ec19296f392939739c48093a155f2b",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E012",
+    "post_id": "w1tlvy",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E012_w1tlvy.md",
+    "saved_record_sha256": "24e80da0dd86672c9ff79ac701894b2ca56d6f1e274db7f29d965460c30bd31d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E013",
+    "post_id": "1ry4vom",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E013_1ry4vom.md",
+    "saved_record_sha256": "5911023b842dbe94d151fb83d592f7761e0e78ae6c239ef59b2fb815d8a288dc",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E014",
+    "post_id": "1srrsfe",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E014_1srrsfe.md",
+    "saved_record_sha256": "0b01d582b3dc1691256b5e584debeb873e50be70cf3f63677aa3b56668c0551f",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E015",
+    "post_id": "tak4cf",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E015_tak4cf.md",
+    "saved_record_sha256": "74ddb04588a45d9d24eab9536506ec48c981cdb7c6e9bef606d364a95cf8931b",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E016",
+    "post_id": "1dgegq8",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E016_1dgegq8.md",
+    "saved_record_sha256": "f3c853192150ef26aa03239e41c3f6acc43a491743a018d2cb51872586b3f678",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E017",
+    "post_id": "o4bret",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E017_o4bret.md",
+    "saved_record_sha256": "95df72f1c34f5b537c08fa0c4990bf10cbb0226cf2176495bb0f0670f2501364",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E018",
+    "post_id": "zjzsky",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E018_zjzsky.md",
+    "saved_record_sha256": "8500ab224947ac872656e3b9fcc078ef1cea2f4918df1308cd8f1cad40bf1b42",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E019",
+    "post_id": "1d0kxsu",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E019_1d0kxsu.md",
+    "saved_record_sha256": "8e133123461df753b118358cc0e8913e56f88ed246ffb1b383761ade39e0bcdb",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E020",
+    "post_id": "1ic8svz",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E020_1ic8svz.md",
+    "saved_record_sha256": "7d14207e76081242d87e17a9ea8c61790ea44b01c11541a7fe145173386cc4f2",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E021",
+    "post_id": "1v2yjm1",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E021_1v2yjm1.md",
+    "saved_record_sha256": "30a7b850fe703f3bf6dd153aaf272bae0bb891038a016e2e8e843d798ce39e8f",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E022",
+    "post_id": "1poy9vz",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E022_1poy9vz.md",
+    "saved_record_sha256": "14433731d1d1d3a33f1260024bc2178d10868bba4f3b8025257cb5103dab438b",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E023",
+    "post_id": "1duprsq",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E023_1duprsq.md",
+    "saved_record_sha256": "b64fa5ac23d60494869f49c84e1d4f805ef4821fab227cfcae4a163467e723a2",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E024",
+    "post_id": "1hpdquu",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E024_1hpdquu.md",
+    "saved_record_sha256": "5f07e0328ec7b70e44b7f2eb3c7fe36106715f3512415be8427f018b12363177",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E025",
+    "post_id": "19c9pmk",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E025_19c9pmk.md",
+    "saved_record_sha256": "3ebe7b8769a4f9ca23e829f9975ef6ed8bd896b1f3f4a36e46ce5481b19dec81",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E026",
+    "post_id": "ygkzc0",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E026_ygkzc0.md",
+    "saved_record_sha256": "42373cafa2165e52c286ebda08ecda1bb4ce6b82eddb00a7acd2d9cd00c95afb",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E027",
+    "post_id": "1sp6962",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E027_1sp6962.md",
+    "saved_record_sha256": "029265bd038478541122e099694dfb8006e995de029df72954ab515b12474af1",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E028",
+    "post_id": "1dnpkwa",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E028_1dnpkwa.md",
+    "saved_record_sha256": "aa5ec2fed495a8b93aafa35804cebd3c1782d30513325f538b96d7753f84811a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E029",
+    "post_id": "1sz3djc",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E029_1sz3djc.md",
+    "saved_record_sha256": "ddec0c8e897159d6d86de0e95c6654086a1816740ee7023febffe2bb8ecaaf94",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E030",
+    "post_id": "12nf1hm",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E030_12nf1hm.md",
+    "saved_record_sha256": "1b23bb409953e9038e7772fe8dc603cb7965907ed5ac80c883f79422c914650c",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E031",
+    "post_id": "1d9h89m",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E031_1d9h89m.md",
+    "saved_record_sha256": "45fed24581f374a68af2deba3e77d44066b90689ad65f3b0e2e66f196dc6b580",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E032",
+    "post_id": "1kbotio",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E032_1kbotio.md",
+    "saved_record_sha256": "0f449cf4f20b341ce7262515835de6cd8f444b450843c8bdea05a7fc82377012",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E033",
+    "post_id": "1dubzo3",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E033_1dubzo3.md",
+    "saved_record_sha256": "7ff62c10210d1e666392d7cc699240e4651f47136b7cd9b536738cff00d9d872",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E034",
+    "post_id": "1r4zirc",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E034_1r4zirc.md",
+    "saved_record_sha256": "3687a5b09a41db243279e529a520423338dddd4ce1b1570803fd931c7df7b5f9",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E035",
+    "post_id": "plzjyp",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E035_plzjyp.md",
+    "saved_record_sha256": "e3a4ec676a92a296927ebaf5cc5a29b0c0beb8194789282b906a0887f3ac0e9d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E036",
+    "post_id": "1lbfedo",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E036_1lbfedo.md",
+    "saved_record_sha256": "c43c94c880ae3163eedbd04f2cadfd7f041ee6c702622828b459faad4efcc115",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E037",
+    "post_id": "1suq6ow",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E037_1suq6ow.md",
+    "saved_record_sha256": "a578ce97b600937dd899301890459399f2d5a1ecc523cb629ad67a18d71632ba",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E038",
+    "post_id": "rxd29k",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E038_rxd29k.md",
+    "saved_record_sha256": "b479e3fd1bdf5dd4d34ea40edcc49ccba3351066182d86a19e32b7df9762a5d7",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E039",
+    "post_id": "1hbjdb3",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E039_1hbjdb3.md",
+    "saved_record_sha256": "79bd434e1cb6b14d5a5a4efe0333b90765e9df3bca9bdf23b7106af3e7801d6d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E040",
+    "post_id": "w8yyvu",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E040_w8yyvu.md",
+    "saved_record_sha256": "fcece1c370943a247074c46309e360a63f2914a713082583817a41d036f94a75",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E041",
+    "post_id": "1u4uqr1",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E041_1u4uqr1.md",
+    "saved_record_sha256": "5889b563e859ac9417b07c19105ece43184023a1ca3b533da07b5669cfd14a45",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E042",
+    "post_id": "1421zwy",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E042_1421zwy.md",
+    "saved_record_sha256": "245395fdb8d2299fd4ab1c266d51a14e0964e0eb59e0a213c3e53c98f193ea84",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E043",
+    "post_id": "1f2sk35",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E043_1f2sk35.md",
+    "saved_record_sha256": "e344f94b0d0c4fca9d648e5806b4863373d453469197593f2395d2b6758abf1f",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E044",
+    "post_id": "1ixh432",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E044_1ixh432.md",
+    "saved_record_sha256": "df9327854cd2f859df3569228ab1d32562389bc02f77c3ff6a98573f152c21fb",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E045",
+    "post_id": "12pjb8n",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E045_12pjb8n.md",
+    "saved_record_sha256": "5a5a56032fe3d238c63fdcf750049ac3fe19d06f24a7a78cbfa1dcd8b91c90e7",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E046",
+    "post_id": "1gir28j",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E046_1gir28j.md",
+    "saved_record_sha256": "9726393ac9757677cbd9ce3960add758c8ee888ebca5cecb7c403a5bd3991557",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E047",
+    "post_id": "1jwmco2",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E047_1jwmco2.md",
+    "saved_record_sha256": "cbd0c644209026f91faa2df09049b9ff00333cebebf20ae1f3bdc707928fa3c9",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E048",
+    "post_id": "1sau9ay",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E048_1sau9ay.md",
+    "saved_record_sha256": "aae6f897ea5da8fcd595db9cb58528b130d67f6ce1bfb6c53310d5d0a02ad1ce",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E049",
+    "post_id": "1g8xd7t",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E049_1g8xd7t.md",
+    "saved_record_sha256": "82808e14991241fc785e73a33b0b582f849bc320045a1b4c5fbc1fe6f3211210",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E050",
+    "post_id": "1dirmwk",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E050_1dirmwk.md",
+    "saved_record_sha256": "895963201c9856e9c12a344e8e48cb86c7b14d61053bd13c186df0d30ec2174c",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E051",
+    "post_id": "lnwxzw",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E051_lnwxzw.md",
+    "saved_record_sha256": "f90a7732188228db70c534443722adb582385147dcc9b255400e283f20946d21",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E052",
+    "post_id": "1h70p6m",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E052_1h70p6m.md",
+    "saved_record_sha256": "0cc9bf1d56ec08c2049dd13bbd11a6f98ec55940cdc5df003e96d09d02f6b529",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E053",
+    "post_id": "1sywu9s",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E053_1sywu9s.md",
+    "saved_record_sha256": "a4423e4dbb1f910507e39e75de70e6758b735a9069af8184ac78d2145731fe1a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E054",
+    "post_id": "11kb890",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E054_11kb890.md",
+    "saved_record_sha256": "fd0692fad2ad91c4ad7063209b5aedfacafe6e23b581019a457a8b4490c2d6a0",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E055",
+    "post_id": "oquccd",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E055_oquccd.md",
+    "saved_record_sha256": "845a620333d837c79e459caea6e18d23074186c2d01c70dbca308ac9cb469f0e",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E056",
+    "post_id": "ztfbjs",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E056_ztfbjs.md",
+    "saved_record_sha256": "0df1c8e05d63760c0bfff0a296feb449f831bc24cbd627162e01acefa49ab8a8",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E057",
+    "post_id": "1mcl61v",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E057_1mcl61v.md",
+    "saved_record_sha256": "cdd0a04d764e6a0d22747e649c4286d3cae6f42341f491bc43067c89f21670d1",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E058",
+    "post_id": "rz4ag1",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E058_rz4ag1.md",
+    "saved_record_sha256": "980e4d9ae3a080cc7a4a25ec43f437f5fdd3b53979e4b2a77e7ba58852f6965b",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E059",
+    "post_id": "1hb03g9",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E059_1hb03g9.md",
+    "saved_record_sha256": "6dac4a7eef4ad38bfa14b16113f44b66dc69a61898ab447e7ddc4deac31521f8",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E060",
+    "post_id": "yfpbsb",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E060_yfpbsb.md",
+    "saved_record_sha256": "5c84aed6ed33fba04faab0c5336d9df67f9aefa4211f8c0b6837cc36584fd517",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E061",
+    "post_id": "16d61ys",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E061_16d61ys.md",
+    "saved_record_sha256": "4dacb31e5740903e6cf02dbfad637dd75ba99986005d3b9a49aeebdb953b5010",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E062",
+    "post_id": "yiizbm",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E062_yiizbm.md",
+    "saved_record_sha256": "a15aa93e99f47c04ca9303a4b8b71e59e151e5fcee199d30c1d75607b6b3e9f9",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E063",
+    "post_id": "1396qgv",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E063_1396qgv.md",
+    "saved_record_sha256": "688f2747a65b3fb5d0d69754ce6f35f00e5e82c9cc6f618e9fbc9b4fb2ed3c84",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E064",
+    "post_id": "1cmdork",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E064_1cmdork.md",
+    "saved_record_sha256": "dfe68c5940fa6c7de3a888d7b60872c1ddf9385d2ba15ec38e9d3978ce881450",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E065",
+    "post_id": "vmbbpu",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E065_vmbbpu.md",
+    "saved_record_sha256": "2189adb489877400acff94504c3d64fca47b3d835022e35bb5e7b9866254486c",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "E066",
+    "post_id": "18o8r7g",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit_expansion/E066_18o8r7g.md",
+    "saved_record_sha256": "6323caa0bbf592231fde1735c67be48249e12b14b7a531d774b544461fc0aefb",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S001",
+    "post_id": "1u1cr98",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/001_1u1cr98.md",
+    "saved_record_sha256": "204819d2fda8f125f9ca4ca037017d5dc8b5a166ccff666fcef72582be4bed71",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S002",
+    "post_id": "vfkv4m",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/002_vfkv4m.md",
+    "saved_record_sha256": "e24e151be9eae07276c23d5f49b8bcff20f47370b5a9460ce6fe707fb274032a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S003",
+    "post_id": "1mreo03",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/003_1mreo03.md",
+    "saved_record_sha256": "3c898d12abed1d7d12470120f1d0fc19e291958764b67674acd38e9db6e0cefb",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S004",
+    "post_id": "1hcgdvj",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/004_1hcgdvj.md",
+    "saved_record_sha256": "db4f68f8d9504e567169f04d5ce40552646e2e806ca8925ae12472c34a28253d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S005",
+    "post_id": "qwcu0x",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/005_qwcu0x.md",
+    "saved_record_sha256": "04539723e2a71eea5c12a9185f820756377cb593776c90e895cbec4988d6376a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S006",
+    "post_id": "1d9n6vc",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/006_1d9n6vc.md",
+    "saved_record_sha256": "b0cfbba864f4be1645d3b94964ad4d22e02f0db3b9204a05f2e3ee2a54c6a950",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S007",
+    "post_id": "1eorkl1",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/007_1eorkl1.md",
+    "saved_record_sha256": "69efb683ac6a41a908ef7629d3d7cb26f26e77e5f7f5f27bd341f365c4bf6612",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S008",
+    "post_id": "157vbny",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/008_157vbny.md",
+    "saved_record_sha256": "2e52180681852438ed54251188c4b115794b6e3b66b4b2a4190b02fe0b809db9",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S009",
+    "post_id": "1sktrxi",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/009_1sktrxi.md",
+    "saved_record_sha256": "139747b0cb44a3599217e63b43212b9c97b68d6e58aa7b23fbcd80e09b747e96",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S010",
+    "post_id": "1cwbt5l",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/010_1cwbt5l.md",
+    "saved_record_sha256": "ff16813530f5e4909acd803c0a1f44db427371c2d871da30060a7dd3fb4014ed",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S011",
+    "post_id": "1fhg28u",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/011_1fhg28u.md",
+    "saved_record_sha256": "3cc0514c7f575f5be16905b34d7300f31617231ceb495405396da72ea3c55998",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S012",
+    "post_id": "1gxdtag",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/012_1gxdtag.md",
+    "saved_record_sha256": "986a699e9e814d78c315a96edc8d371269bf536f546aadda873cf01654a1f9f5",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S013",
+    "post_id": "lmujjt",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/013_lmujjt.md",
+    "saved_record_sha256": "4b2603a7a89ae5ddd526be529e6818ec8ee9b72c91661a00d21ff7b54bef0c6d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S014",
+    "post_id": "18ervo9",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/014_18ervo9.md",
+    "saved_record_sha256": "4de3250c74439010dabc44bd023e3334202e4d98b618f044c9cff805fc25ac07",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S015",
+    "post_id": "zssffq",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/015_zssffq.md",
+    "saved_record_sha256": "c25b63daa3f20802e0d7615d278c48bd860b9476e2c435261562917d158cad63",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S016",
+    "post_id": "s8vjbj",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/016_s8vjbj.md",
+    "saved_record_sha256": "ae20504adc9357974badb7fd5536073a27858df0e466e1fcf8a7a67e1b7c1452",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S017",
+    "post_id": "pccrwt",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/017_pccrwt.md",
+    "saved_record_sha256": "0a3a213c76d519a398576cbb27874a0c82afecaaa9b476f1df3f2378546756e7",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S018",
+    "post_id": "uq9hc1",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/018_uq9hc1.md",
+    "saved_record_sha256": "890ba7545368e75a4078851dbf3e444a45cffdce82a01167cc6bc87d1d1d031b",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S019",
+    "post_id": "yo4wyk",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/019_yo4wyk.md",
+    "saved_record_sha256": "6dc772b59aee8242e2bebf69a8b02de9d7d7475c4463b10cc367c26284b7b21f",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S020",
+    "post_id": "uunwpc",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/020_uunwpc.md",
+    "saved_record_sha256": "c9933b45050ec680508c6666ea0b51ae42674c3731bc6700e63dd671bf5111ef",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S021",
+    "post_id": "o98c7e",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/021_o98c7e.md",
+    "saved_record_sha256": "aecb40d190297fba4ce14941772bf5695bb2d4b22b749b85eba764d28a53fd52",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S022",
+    "post_id": "1tizxp7",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/022_1tizxp7.md",
+    "saved_record_sha256": "93342c918debd2f214ae9fea0646f64bd8f2350c998574e61ba7a38216bcab99",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S023",
+    "post_id": "1hnaslw",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/023_1hnaslw.md",
+    "saved_record_sha256": "dafac2ed2a3b105224fc05a47f68eb1e964a3014aa4c2779b6712bac7eccd05a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S024",
+    "post_id": "1m3kors",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/024_1m3kors.md",
+    "saved_record_sha256": "b2f9df5e96186475daa806de4816f4ad88662d417572fb4cd4bc7e3098b50992",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S025",
+    "post_id": "1n3r7eo",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/025_1n3r7eo.md",
+    "saved_record_sha256": "4e56aa41199f37122feeaf29119ff27108285da056000b13904ab4f33df1640a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S026",
+    "post_id": "17sxb30",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/026_17sxb30.md",
+    "saved_record_sha256": "87bc3b558b081df3de538e413fd56a5a80576cce76590a04931dad0aeb6ad019",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S027",
+    "post_id": "1fufv0v",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/027_1fufv0v.md",
+    "saved_record_sha256": "80439dd7c0c0b3ff2b8531793ceb0fc76aba3bb1a1603fbe50ecb2c83559f346",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S028",
+    "post_id": "19c53er",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/028_19c53er.md",
+    "saved_record_sha256": "0c1556ce87029dde9c08096eacd1ba3e0ee0b3ab684e56096d0071aefa08c067",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S029",
+    "post_id": "18ig2vq",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/029_18ig2vq.md",
+    "saved_record_sha256": "9cf2ad2196689c66ec640921e260d33cfb6fcc4aaed2099f0adaa19e9783dd19",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S030",
+    "post_id": "109chwi",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/030_109chwi.md",
+    "saved_record_sha256": "20be40b77cb64012ab45fd435bed83b6524d3f61460bef0e2da23e09547a2ad0",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S031",
+    "post_id": "vronh6",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/031_vronh6.md",
+    "saved_record_sha256": "eac530f0e2fedced98f8804cf0c0dc295fadf0ff57b30bb3f068b97047176165",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S032",
+    "post_id": "1r0xvxw",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/032_1r0xvxw.md",
+    "saved_record_sha256": "f65bbf431833057b83d8a7db85d0785a64f76cfea913f32c95873a004fdb3ba0",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S033",
+    "post_id": "kb9jkv",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/033_kb9jkv.md",
+    "saved_record_sha256": "843088c9f8071902f831f3c8bf1d4e11779a37aed6cc8247f7e3ff94088e2ad7",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S034",
+    "post_id": "1od9opr",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/034_1od9opr.md",
+    "saved_record_sha256": "98ed4aa1e5aef3cb366930c4d435a01e1476c0ab1bc754d34803a6138a4965f3",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S035",
+    "post_id": "16hpzua",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/035_16hpzua.md",
+    "saved_record_sha256": "41bc0670d4ff0d9d196e0020793caad6920b13780d4c4965f2aa93a8e8a350a6",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S036",
+    "post_id": "1fsjw01",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/036_1fsjw01.md",
+    "saved_record_sha256": "0d5c9214df5bc2c64cc0bac946d6fd6ebe236937d57f21e11eec662797eeee1f",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S037",
+    "post_id": "1frutrs",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/037_1frutrs.md",
+    "saved_record_sha256": "b1a813eff04be905fbd5ee1cc756d4f511dd8e0108d673feead1432413ad63d7",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S038",
+    "post_id": "1689zdq",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/038_1689zdq.md",
+    "saved_record_sha256": "d5e91db2ca3084d6981edcd7fcd5751541b666b5463923fbdd3a43ecea289f57",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S039",
+    "post_id": "14pr9dy",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/039_14pr9dy.md",
+    "saved_record_sha256": "61a7d1952016052fc51b77048000929a50180c57804dd7c5fdaad43de7192e8f",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S040",
+    "post_id": "x8ehb1",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/040_x8ehb1.md",
+    "saved_record_sha256": "87d71b30078c86ce987344d3b6287a3988b126760cacbcbed4386f925bf51a24",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S041",
+    "post_id": "1i14yhp",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/041_1i14yhp.md",
+    "saved_record_sha256": "8c8a2b981cac722681ebae44b9b9a136428cc4e9acf3126e0fbc308da92cea90",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S042",
+    "post_id": "vn2q8w",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/042_vn2q8w.md",
+    "saved_record_sha256": "c37b0e597f857e3e4af618a9ebc9cc751f815b034a48866f93ea9e2c8e713297",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S043",
+    "post_id": "1obtrrq",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/043_1obtrrq.md",
+    "saved_record_sha256": "061ea7f9bd2662dab70c139c58c338121bd301e51233bdc71d037b9a2c3a90e2",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S044",
+    "post_id": "10z3epm",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/044_10z3epm.md",
+    "saved_record_sha256": "15d627a8b5dbb62979dd934fb939c0f2e55d9b78396fa66fd8b96c4d17bb06b6",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S045",
+    "post_id": "plql6p",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/045_plql6p.md",
+    "saved_record_sha256": "c3d01932afe4c2ce79baca4f16641e0f228a023a7294d45c1b76dea5b11dc58a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S046",
+    "post_id": "1hy6nqh",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/046_1hy6nqh.md",
+    "saved_record_sha256": "e3a12b9c8e3fa080d9851221cfb331cb6de0ba6b3d496c0b1f0a5fade4afe333",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S047",
+    "post_id": "wzlpyg",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/047_wzlpyg.md",
+    "saved_record_sha256": "52a5fc315871e2dd4691a42d997633e3e036f6418a2a4722323128f124c799f1",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S048",
+    "post_id": "1salclq",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/048_1salclq.md",
+    "saved_record_sha256": "4b419336863063218aa379e5e33d9dd8f91caaba204488be3ec69ff4a639b150",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S049",
+    "post_id": "1sywht2",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/049_1sywht2.md",
+    "saved_record_sha256": "2e4e8638d40c83320ade81116a514c68aefdbe21d27ebfadb6b60ef128793ba9",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S050",
+    "post_id": "1f2fexn",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/050_1f2fexn.md",
+    "saved_record_sha256": "002ee144593b440dbc92a4850484d32640966ef554340885a97a420485766bfe",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S051",
+    "post_id": "15j8esn",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/051_15j8esn.md",
+    "saved_record_sha256": "514ae857e1881e573d9b0c49323fe20fe226d44b78bb72c54fd5eb3d79bb4187",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S052",
+    "post_id": "1abmdp4",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/052_1abmdp4.md",
+    "saved_record_sha256": "ac3dc26d57a7c11fa7cbd1e32f48b89d4d97d5d827e1a25f55f18d3f756fa2ee",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S053",
+    "post_id": "10xv9ub",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/053_10xv9ub.md",
+    "saved_record_sha256": "24ba73c09f9d3274bf1be14b36520fb14c9c62b7b5eebc0ba73d1e4889f800f2",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S054",
+    "post_id": "1hzzaa6",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/054_1hzzaa6.md",
+    "saved_record_sha256": "d0ca0fcf299ec4cde95519d6dfa2c8f28c0bcb3a3ead6a74c39c4cdffc153bf8",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S055",
+    "post_id": "u9tbd5",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/055_u9tbd5.md",
+    "saved_record_sha256": "bd7a902141039576486b8723e696af87dd2232c750338d382b45694e4a443bea",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S056",
+    "post_id": "kin43f",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/056_kin43f.md",
+    "saved_record_sha256": "259ce2b77bfaeb217e17e4550fc4a826d77ab3bf4b47cb4d7a64e0c2aff4fd86",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S057",
+    "post_id": "1ksyd87",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/057_1ksyd87.md",
+    "saved_record_sha256": "0ab43558a61b8d5d490bd42e9cfa25727596d2800943d3c41b20fbbcadc08a6b",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S058",
+    "post_id": "1j6h8bo",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/058_1j6h8bo.md",
+    "saved_record_sha256": "4df49595844d57e338830d5b9ab7ac4a367435bd445001f8bf33a1f76e25eade",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S059",
+    "post_id": "1u4fqog",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/059_1u4fqog.md",
+    "saved_record_sha256": "aea273c1ecd26c0140f56ad99a5af818a524b80287cba6509232fdea0c164c4d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S060",
+    "post_id": "uxsei0",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/060_uxsei0.md",
+    "saved_record_sha256": "9050cb189b94a281d2d07d86613b8e33b8c17c6624658ba956e0b9b1cc80386a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S061",
+    "post_id": "1lbfvru",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/061_1lbfvru.md",
+    "saved_record_sha256": "9930fe33392e1150495fed9f053e806ff04af7e0905802460d9cc0cebf00872b",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S062",
+    "post_id": "16fltrn",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/062_16fltrn.md",
+    "saved_record_sha256": "82eceb6235d267f3e0a275b9983253240e63ed17a0f26285f899bd3100385ad3",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S063",
+    "post_id": "18znjjl",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/063_18znjjl.md",
+    "saved_record_sha256": "59f7e1132bd8b5f7e3f0eac2b23419fa5ea860ec4fbfc128f9387a9cf07636af",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S064",
+    "post_id": "ykdbmc",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/064_ykdbmc.md",
+    "saved_record_sha256": "c6c871f902f822d71e67a96e2390fa8b9e72070ed9d2a772e2c515ce94717a72",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S065",
+    "post_id": "19ffur5",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/065_19ffur5.md",
+    "saved_record_sha256": "616bd60d5c41782ed403349790b8d9daaaf468c98715161beb2da3d5f9d7d31f",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S066",
+    "post_id": "1r0fy74",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/066_1r0fy74.md",
+    "saved_record_sha256": "dbbdbd1e619b6a881497db55235afd08e3e64f5b3f02245c565243541b20a86f",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S067",
+    "post_id": "1igqxsl",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/067_1igqxsl.md",
+    "saved_record_sha256": "e0aee6f586eaa8622f05d02d2c036ea85ccac10b32bea2e27b12957cedce6f69",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S068",
+    "post_id": "183yvjp",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/068_183yvjp.md",
+    "saved_record_sha256": "ec6d590b259c6df96358fc464c3c50edbe8095f4af8ce1d79c225efb07c46801",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S069",
+    "post_id": "1gpfbvx",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/069_1gpfbvx.md",
+    "saved_record_sha256": "ad38696327089a9576429907c473f2e5ef6cb7ca84242709fc403b9ca20ce28b",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S070",
+    "post_id": "1pjfmtw",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/070_1pjfmtw.md",
+    "saved_record_sha256": "d1d84899183e441ed0917f4874d7da3639b01f49e979db0c1499bac73f5fe782",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S071",
+    "post_id": "1jah684",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/071_1jah684.md",
+    "saved_record_sha256": "3b1593f471d993d2d1b22c8e0fa0630651397bb49d8e2241caa80f69164edb39",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S072",
+    "post_id": "1igz39a",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/072_1igz39a.md",
+    "saved_record_sha256": "d0ce6a04206bd1bd2f643c83a1db1fb2c3860e2d6c555ac45cb1acac3a572a26",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S073",
+    "post_id": "x960vi",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/073_x960vi.md",
+    "saved_record_sha256": "8d03515b322c0af8eea8b5104fc3a27fc6403d23d6b360e1e67b2b657269ba0e",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S074",
+    "post_id": "1n5gbip",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/074_1n5gbip.md",
+    "saved_record_sha256": "bc28181a55f8a4abb076d8f152dd7c8b8163add1ad218aac61347f78c5bd33fe",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S075",
+    "post_id": "1q5a9lk",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/075_1q5a9lk.md",
+    "saved_record_sha256": "6a3d7dd0aabd3370b70af1d59b57b4d289961d25cde488bb43e0d47d6fb89026",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S076",
+    "post_id": "1p7bbsx",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/076_1p7bbsx.md",
+    "saved_record_sha256": "81e157c7544e35fcda684a3f0640f7dd57913afdff55d658d5bff55cbf69e2d0",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S077",
+    "post_id": "1lowkwy",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/077_1lowkwy.md",
+    "saved_record_sha256": "56c1634e06192376da034142bb2edf8c891bfc58423c60ecdf4448bda4dabaa3",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S078",
+    "post_id": "1kvgvpj",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/078_1kvgvpj.md",
+    "saved_record_sha256": "654feb139cc0ef327398b12f79f9a8070bd635efbfd2f8dbae7258e335c70072",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S079",
+    "post_id": "1dlqbq2",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/079_1dlqbq2.md",
+    "saved_record_sha256": "3698e557f00885a90dbbe7eed1a38f56a68d4ebaa3d32ff76fbd3101a1c0bb47",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S080",
+    "post_id": "1m2ix7v",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/080_1m2ix7v.md",
+    "saved_record_sha256": "8220ea38a1f0843dd4e9c521a4a0626709ab38d7321cafa096f55f3c6ecce22d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S081",
+    "post_id": "pl0cbb",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/081_pl0cbb.md",
+    "saved_record_sha256": "6b2bb08d893a8c7920f3fcac90a6af8a3e485f2e22f015c8693c61f2f6823539",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S082",
+    "post_id": "1hb1bxy",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/082_1hb1bxy.md",
+    "saved_record_sha256": "d518ed8b543cab8e4c2b7a1481f2d628dbb31c9d88343f702ca1e84e2ee022bd",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S083",
+    "post_id": "1gu5arp",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/083_1gu5arp.md",
+    "saved_record_sha256": "65242f94e97e6713423afe4e7ac97fc174027dffda0352371ec9e180f34ed3e0",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S084",
+    "post_id": "1u0buwc",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/084_1u0buwc.md",
+    "saved_record_sha256": "a77320b788eebc84628b38f09da2f89700ab6c96dc402493ccb0ad6ddfce257d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S085",
+    "post_id": "1rtq908",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/085_1rtq908.md",
+    "saved_record_sha256": "2a1dd88ea7d8ff39830a2f1e4abe4040e992b43e04fc7fdbd22a613d10151578",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S086",
+    "post_id": "1aive2p",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/086_1aive2p.md",
+    "saved_record_sha256": "14a8743c898e2f8300c1e150db20a44835a3ab8a03dc7489ba22bd457c5f889e",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S087",
+    "post_id": "17gwgga",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/087_17gwgga.md",
+    "saved_record_sha256": "66811d98ce381a908f52d1584225d7f388415a48dacd89c59da53504d143365d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S088",
+    "post_id": "1at00f8",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/088_1at00f8.md",
+    "saved_record_sha256": "2080b9029d565aae53542fcfd61f3e6e5cf543df8682ad17900f2203adb40804",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S089",
+    "post_id": "1o1m1j1",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/089_1o1m1j1.md",
+    "saved_record_sha256": "6791091d3f787b2a5dd7dcc5e41914781e26816ce5f43557d7869a0e18583988",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S090",
+    "post_id": "13igvpv",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/090_13igvpv.md",
+    "saved_record_sha256": "80541b20912e91cce4ecb25c017b8e5d39ec3e4be9e52783bfb9a15bd46d9a5e",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S091",
+    "post_id": "1lpnfml",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/091_1lpnfml.md",
+    "saved_record_sha256": "ad08a25b9e003448f0e626b256001f073990356b8bf62a72b37b9534912c4b8d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S092",
+    "post_id": "12sfxyc",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/092_12sfxyc.md",
+    "saved_record_sha256": "7c6488df4b3cc0652e3cea18c177d39fbe6fa5ca6d5f87545ec3f393e9003604",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S093",
+    "post_id": "1ifzh33",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/093_1ifzh33.md",
+    "saved_record_sha256": "3e316044e1dc726511d43f1c0dfebfb5b8bd352cdb7ad47444726a7833689a5a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S094",
+    "post_id": "193r6t9",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/094_193r6t9.md",
+    "saved_record_sha256": "40a4c9d55e2abba93bf15dfecc1d00d52d9a6c4c96fc8650178224e36385c652",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S095",
+    "post_id": "uv5k2o",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/095_uv5k2o.md",
+    "saved_record_sha256": "073ceeef56bbd478d18aacee64464d2dc21066b2718ff0695f7a815ebcc80d7a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S096",
+    "post_id": "156bpbi",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/096_156bpbi.md",
+    "saved_record_sha256": "e134e7838d9d8c3dd19c427d84e7b1ecaeba44a99ff0f916199ce1a8ad8e9f4a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S097",
+    "post_id": "1rz3tin",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/097_1rz3tin.md",
+    "saved_record_sha256": "a40499cdb3a411f37a68bb2dee14b9302d3446d943dc989c772284bbccb14d53",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S098",
+    "post_id": "1mesvd8",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/098_1mesvd8.md",
+    "saved_record_sha256": "bb7c9bb409062c256f5cad5777446d6fe825d77cab4766588c58c7ff136a6253",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S099",
+    "post_id": "1lb4tu3",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/099_1lb4tu3.md",
+    "saved_record_sha256": "508eb5db5a893d4ce17d2fc0af7e367bdfe53e3f16f90a5f4a901e8a387aedcf",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S100",
+    "post_id": "1l2lrd9",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/100_1l2lrd9.md",
+    "saved_record_sha256": "162d1d25de8d5450df7f58dcc4b5f3bd75b321e2b68e14de5f61654bce5b14a6",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S101",
+    "post_id": "znezdx",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/101_znezdx.md",
+    "saved_record_sha256": "2e134a5036fd16cbfeb7ed4859f2b43c0b27fad5609816ee64f6ba1a9540f179",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S102",
+    "post_id": "1cyaz6g",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/102_1cyaz6g.md",
+    "saved_record_sha256": "372ddbde7cf2c26290097872f2e8cf4743fae536878c0d6df8383abc571a1fb7",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S103",
+    "post_id": "1h9tmpl",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/103_1h9tmpl.md",
+    "saved_record_sha256": "7b96d735e71b12904dfc31c901362578fec88fd6fa91dc94b5c045b1f4453680",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S104",
+    "post_id": "16f3y1j",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/104_16f3y1j.md",
+    "saved_record_sha256": "a1e2fa30b1329dad7a8b42045da847485056857b4f766643aea5c1e74d6ef274",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S105",
+    "post_id": "1foe18y",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/105_1foe18y.md",
+    "saved_record_sha256": "74d0a8c3f65acd14214f468e2ce46e94c37c0e8b9ec089d932be50898c0f0e8e",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S106",
+    "post_id": "1smpi0s",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/106_1smpi0s.md",
+    "saved_record_sha256": "656dbce7ffb7bc1db0f8314e5b0b3e6cf11672d6b19909aa542445fcb601c785",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S107",
+    "post_id": "1ro1vwu",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/107_1ro1vwu.md",
+    "saved_record_sha256": "4c2c23c73c42f009761dd46236849e2371708ae49779fe34d24b3fc4508532db",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S108",
+    "post_id": "1aqyele",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/108_1aqyele.md",
+    "saved_record_sha256": "2928a3a5f4aca8a2f4e4fcf1e6750a21627803e44b9693062a5318c23926686e",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S109",
+    "post_id": "vm54gv",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/109_vm54gv.md",
+    "saved_record_sha256": "8c5cb00422953e4a8bd925dfe1c5c3e6c49f0ec4ab3c1b78ef5ab4fca7845b89",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S110",
+    "post_id": "1l9nlgq",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/110_1l9nlgq.md",
+    "saved_record_sha256": "f7b0b3401af4c842ba5d28c6f02c62ce12f91059f93f20aa1b46b718766a1c2c",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S111",
+    "post_id": "1slcw7z",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/111_1slcw7z.md",
+    "saved_record_sha256": "3f7f519d4ac7369b659965e97ec191c35dfe8fdb6751071d8c2c990fb08b96a6",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S112",
+    "post_id": "1ivq5v5",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/112_1ivq5v5.md",
+    "saved_record_sha256": "ca09237a87b6ed8cbd02f54743e980144228673fb3c7d3b142608cd120b25571",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S113",
+    "post_id": "1pkbgq7",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/113_1pkbgq7.md",
+    "saved_record_sha256": "8899c2ae5af46b00f45be6449aa2f53c0788248c3a996539454f60716b1c876b",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S114",
+    "post_id": "1qfhxf1",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/114_1qfhxf1.md",
+    "saved_record_sha256": "5d8ad0647d5dbc74ab211e48c4949ae6dbbed50466fd2419abd7c4a82c14b377",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S115",
+    "post_id": "1l54545",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/115_1l54545.md",
+    "saved_record_sha256": "78c6ff48d3b7f698152fcee50103ad137efc473a0a20fcfd36f22d80398fc95a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S116",
+    "post_id": "16r6sgw",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/116_16r6sgw.md",
+    "saved_record_sha256": "78a1b3158331cfa6dca8cc14a717630ebbed2be5a73d913be6a42ca3fc8c0951",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S117",
+    "post_id": "1q3hblo",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/117_1q3hblo.md",
+    "saved_record_sha256": "91e440f46e65d075cefe885f7b8bd0e659e8c4935f7c42208548d973c52ef08e",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S118",
+    "post_id": "1cd1r9h",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/118_1cd1r9h.md",
+    "saved_record_sha256": "01a92ce8623c300317f2033e7cb191d8266c76d5d71fbdcaebed68d77689440a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S119",
+    "post_id": "1nmvuik",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/119_1nmvuik.md",
+    "saved_record_sha256": "4e2937a2b99b9dc002c817dff91c6c76b0dba664762698210ed765b4156e2748",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S120",
+    "post_id": "1s37f3d",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/120_1s37f3d.md",
+    "saved_record_sha256": "a1ff3cbc9324cfe54961dd639fe3684748c32911d06c5314c99b6f07b7108c19",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S121",
+    "post_id": "1k7t2mg",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/121_1k7t2mg.md",
+    "saved_record_sha256": "33aa61e92e5c95338d275cb29da5423dc0ca303e82695fe29092ce80863c1357",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S122",
+    "post_id": "1271di4",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/122_1271di4.md",
+    "saved_record_sha256": "c4ec700f7ff087026b99bf5e447a6fce6932664daa40c7517ac71ba030c8d133",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S123",
+    "post_id": "17a58d3",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/123_17a58d3.md",
+    "saved_record_sha256": "06f17e2b46e127e4f9f962b0183f6d60e9d6ee5d8cc9ee513b0e702b95c4b52d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S124",
+    "post_id": "18jufvx",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/124_18jufvx.md",
+    "saved_record_sha256": "685bfb07255e22f651191fa8b6877b4fe14a361040782fb14084388255684605",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S125",
+    "post_id": "uvbj9e",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/125_uvbj9e.md",
+    "saved_record_sha256": "93f8635e6b73d1bccdb1128815c3e70ff3023ec6e94e8d4b283c2b514dc1370b",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S126",
+    "post_id": "1u17h92",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/126_1u17h92.md",
+    "saved_record_sha256": "264d423944df5d53999a73ddde73884e00980170bd5d8aebe48a92e4351c8cf2",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S127",
+    "post_id": "1d6epiz",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/127_1d6epiz.md",
+    "saved_record_sha256": "79a53bb3d42663330e3aebc97b14ab68f8e756a174f0ac9e5dd70128cbd0ce04",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S128",
+    "post_id": "1fvyfu1",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/128_1fvyfu1.md",
+    "saved_record_sha256": "564f3fa6b5dfc27711adadf86a648536b6bf9216245149594e425ccfb4e982e4",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S129",
+    "post_id": "16dbshw",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/129_16dbshw.md",
+    "saved_record_sha256": "3279e138ec2f746df26df0f6b9b738b44013ffa58fb4580da8da64ca351a90a8",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S130",
+    "post_id": "1m5nzmp",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/130_1m5nzmp.md",
+    "saved_record_sha256": "d775c09547472d2baccda3f3f09cfaa1e08344514609c2d292ca7ae55df30ec1",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S131",
+    "post_id": "r5u3as",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/131_r5u3as.md",
+    "saved_record_sha256": "d17aa32f9f5195030b1652f3a04a594c57f2ad60c2c9aba1391a8fbb317c2376",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S132",
+    "post_id": "1hizzk2",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/132_1hizzk2.md",
+    "saved_record_sha256": "0e02c17e11d72f6ff6bf3529bb2d0bacca19257769c873c07a08191e09ccdc4b",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S133",
+    "post_id": "13j4ljj",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/133_13j4ljj.md",
+    "saved_record_sha256": "1f92b0b53ad42b76d76debe85579e58e73512648edc8cda4c742741a341b0078",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S134",
+    "post_id": "1djlwmw",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/134_1djlwmw.md",
+    "saved_record_sha256": "370971933cc020b011f8b3c50980609cbfc1bb07fc151524618488e6d29d7960",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S135",
+    "post_id": "166t187",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/135_166t187.md",
+    "saved_record_sha256": "5674d86d806bb0461dc0001be674e9d78c5f2529a0a419075de09a9566b4366d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S136",
+    "post_id": "pof974",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/136_pof974.md",
+    "saved_record_sha256": "4a7e247a34c5401bff3923cd7c23e7937e57ec55efae8cd4b7732814cd19b762",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S137",
+    "post_id": "10yqdp8",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/137_10yqdp8.md",
+    "saved_record_sha256": "2667db7be8690f18155242ea9e9946b43b40ffaefa27dcc359648efaab5c8924",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S138",
+    "post_id": "1ioaqiy",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/138_1ioaqiy.md",
+    "saved_record_sha256": "e2629408d7348458c840ddd658b1cea52e180e0784a947d1e07197a2ee61b84d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S139",
+    "post_id": "1e3m2f7",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/139_1e3m2f7.md",
+    "saved_record_sha256": "2f747ebf4f167b9348f99a3622bf340ba7080ea6df424dd20de84a588176b771",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S140",
+    "post_id": "1hj3cv0",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/140_1hj3cv0.md",
+    "saved_record_sha256": "57ec8a9c02d5cce108f7fdc68fe0ef474629652d268965ae259e9c33379e5bf0",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S141",
+    "post_id": "14xce7x",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/141_14xce7x.md",
+    "saved_record_sha256": "5d0586bc849ab120fff404f83f9a2141ac2a54ea2a4cced7c904580b8a17c1ca",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S142",
+    "post_id": "1guoxm2",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/142_1guoxm2.md",
+    "saved_record_sha256": "4cd592910b0a94493d99f92f73ab5bf6f04f9c607892894e7cccccda7fa799ac",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S143",
+    "post_id": "1o38hew",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/143_1o38hew.md",
+    "saved_record_sha256": "37da65502f9690284452b6aa26d80d412df58c74c89ccf9dc5e19ecdd384e83a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S144",
+    "post_id": "1hfziti",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/144_1hfziti.md",
+    "saved_record_sha256": "8278942dad637a1852a841aacc616e3e12c9af25b3f439187eb2c2275ef08f02",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S145",
+    "post_id": "y13icx",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/145_y13icx.md",
+    "saved_record_sha256": "f02d4aa7d18747b6f021bde965689760ba4ffa880662a68652228ac42b30c6a1",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S146",
+    "post_id": "1ncwefg",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/146_1ncwefg.md",
+    "saved_record_sha256": "808c4b42c3f6110c57a72d35c239d1927d67cdcac1b2b905cbdce6a1fb9056fc",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S147",
+    "post_id": "1ncwefg",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/147_1ncwefg.md",
+    "saved_record_sha256": "6a2fc3347159a90dc4e5557fd1494f5879de2a725a7b280fc7c1c2c07d1d4c8a",
+    "duplicate_of_source_id": "S146"
+  },
+  {
+    "source_id": "S148",
+    "post_id": "1qsuyhm",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/148_1qsuyhm.md",
+    "saved_record_sha256": "37c5535f190706c419a216ae9a18cb400c1c63dd54a3e1a424febff34865c03d",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S149",
+    "post_id": "lnz59o",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/149_lnz59o.md",
+    "saved_record_sha256": "fe226d576ea551488773d8ba165741367824a39458c353b7c8bbcb78c1122800",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S150",
+    "post_id": "z4fn7k",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/150_z4fn7k.md",
+    "saved_record_sha256": "826727fb376d4a193742d7aedeefea952a76a89e0e5bb821859f3438c67479f6",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S151",
+    "post_id": "wpmanm",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/151_wpmanm.md",
+    "saved_record_sha256": "4874c04168d610daab436521f2b2deba0aae36a3a602b787a15bdf05435b92f4",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S152",
+    "post_id": "13gl2cz",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/152_13gl2cz.md",
+    "saved_record_sha256": "ce96ffd4e60a660b6d07419182a9cca4c78902916b508af0347d343f68cdc760",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S153",
+    "post_id": "wcceia",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/153_wcceia.md",
+    "saved_record_sha256": "c5f7d30f138b99fe4006db38b8d07395f9bb2ee54f6b87a567669e06598b7248",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S154",
+    "post_id": "176urvc",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/154_176urvc.md",
+    "saved_record_sha256": "4ea1b3e144a323aaf622706899ec53e8f589b3b591d159a190b66ef29650e3ac",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S155",
+    "post_id": "1nbzxgd",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/155_1nbzxgd.md",
+    "saved_record_sha256": "8efe760d481e3dfe792cd145af2f3d1aea2d6cc69221963cfa353408a4344c00",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S156",
+    "post_id": "17td5v7",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/156_17td5v7.md",
+    "saved_record_sha256": "3f22ddbfbb0dda525d7777c7995815266c5764824992f5f49398b4d74aee8400",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S157",
+    "post_id": "1tnepp6",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/157_1tnepp6.md",
+    "saved_record_sha256": "cac4cbbab396331728cf41b4b62e5ecffda15f52d66ac30fdec8ac22193d2285",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S158",
+    "post_id": "1ldzvn9",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/158_1ldzvn9.md",
+    "saved_record_sha256": "fcb4da1414831e5ff0bb7a1d201c35e8fae3256472dfe4159a5e6d3db07dc91a",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S159",
+    "post_id": "1grcx7j",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/159_1grcx7j.md",
+    "saved_record_sha256": "48b0ec6eb59e01fb9e07a4c4de6459f2ccff9c11476eda04399a76200a2cf438",
+    "duplicate_of_source_id": ""
+  },
+  {
+    "source_id": "S160",
+    "post_id": "13l1jkf",
+    "saved_record": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_evidence/reddit/160_13l1jkf.md",
+    "saved_record_sha256": "d24e1648d9dc46228723a8c3dbb1eb9e896f05ba1b5e6a6b2ad2ac07df30dfe6",
+    "duplicate_of_source_id": ""
+  }
+]

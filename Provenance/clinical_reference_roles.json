@@ -1,0 +1,13 @@
+{
+  "included_clinical_history": {
+    "path": "Clinical_Case/Long Covid - Clinical History and Treatment Course - João CB.pdf",
+    "sha256": "a78d3e0d272d7c0766d4ece41e129d5d63d6ee4ca36a3ec02d138079068afee0",
+    "role": "Later user-supplied case-writing reference; not retroactively substituted as an original pipeline input"
+  },
+  "original_analysis_anchor": {
+    "version": "Clinical Picture v4.0",
+    "archive_relative_path": "work/clinical_picture/v4/Clinical Picture.md",
+    "sha256": "160865d035267cdbb9637ac5a057ec10df7a159eb0afe6ab13f22a9ff47d070b"
+  },
+  "analytical_reprocessing_during_packaging": false
+}

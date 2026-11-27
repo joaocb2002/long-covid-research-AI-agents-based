@@ -1,0 +1,15 @@
+{
+  "title": "Long COVID research: AI-agent-led evidence processing",
+  "date": "2026-11-27",
+  "github_repository": "joaocb2002/long-covid-research-AI-agents-based",
+  "max_unpacked_bytes": 1000000000,
+  "unique_posts_collected": 224,
+  "initial_unique_posts": 159,
+  "additional_unique_posts": 65,
+  "unique_posts_in_numerical_analysis": 211,
+  "calibration_posts_outside_numerical_analysis": 13,
+  "coded_records": 14961,
+  "execution": "Mainly AI-agent executed, with human direction and subsequent clinician review required",
+  "full_archive_included": false,
+  "clinical_interpretation_validated_by_packaging": false
+}

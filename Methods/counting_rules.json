@@ -1,0 +1,179 @@
+{
+  "reported_symptoms": [
+    {
+      "section": "central_findings",
+      "concept_id": "ALM01",
+      "label": "Alarm or wired state"
+    },
+    {
+      "section": "central_findings",
+      "concept_id": "ALM02",
+      "label": "Bodily alarm with calm thoughts / body-first wording"
+    },
+    {
+      "section": "central_findings",
+      "concept_id": "ALM03",
+      "label": "No consciously identified trigger"
+    },
+    {
+      "section": "central_findings",
+      "concept_id": "PAI01",
+      "label": "Diffuse bodily pain or discomfort"
+    },
+    {
+      "section": "central_findings",
+      "concept_id": "CAR01",
+      "label": "Palpitations or heartbeat sensations"
+    },
+    {
+      "section": "central_findings",
+      "concept_id": "NEU01",
+      "label": "Head pressure"
+    },
+    {
+      "section": "selected_experiences",
+      "concept_id": "TMP01",
+      "label": "Symptoms already present on waking"
+    },
+    {
+      "section": "selected_experiences",
+      "concept_id": "TMP02",
+      "label": "Continuous underlying symptoms"
+    },
+    {
+      "section": "selected_experiences",
+      "concept_id": "TMP05",
+      "label": "No full return to the earlier baseline"
+    },
+    {
+      "section": "selected_experiences",
+      "concept_id": "RES01",
+      "label": "Air hunger or breathlessness"
+    },
+    {
+      "section": "selected_experiences",
+      "concept_id": "NEU04",
+      "label": "Exaggerated startle"
+    },
+    {
+      "section": "selected_experiences",
+      "concept_id": "NEU06",
+      "label": "Dizziness, faintness or fainting"
+    },
+    {
+      "section": "selected_experiences",
+      "concept_id": "INT01",
+      "label": "Involuntary attention to bodily signals"
+    },
+    {
+      "section": "selected_experiences",
+      "concept_id": "INT03",
+      "label": "Unusually intense bodily presence"
+    },
+    {
+      "section": "selected_experiences",
+      "concept_id": "INT04",
+      "label": "Internal vibration or buzzing"
+    },
+    {
+      "section": "selected_experiences",
+      "concept_id": "PSY02",
+      "label": "Fear or distress described as secondary"
+    },
+    {
+      "section": "selected_experiences",
+      "concept_id": "MIS01",
+      "label": "Heartbeat sensations with a non-high measured rate"
+    },
+    {
+      "section": "selected_experiences",
+      "concept_id": "CAR03",
+      "label": "Reported normal or low measured heart rate"
+    },
+    {
+      "section": "clinical_differences",
+      "concept_id": "FAT01",
+      "label": "Fatigue / exhaustion"
+    },
+    {
+      "section": "clinical_differences",
+      "concept_id": "COG02",
+      "label": "Brain fog / cognitive slowing"
+    },
+    {
+      "section": "clinical_differences",
+      "concept_id": "FAT02",
+      "label": "Post-exertional worsening"
+    },
+    {
+      "section": "clinical_differences",
+      "concept_id": "SLP03",
+      "label": "Sleep not physically restorative"
+    },
+    {
+      "section": "clinical_differences",
+      "concept_id": "SLP04",
+      "label": "Insomnia"
+    }
+  ],
+  "combinations": [
+    {
+      "combination_id": "C01",
+      "concepts": [
+        "ALM01",
+        "ALM02"
+      ],
+      "label": "Wired/alarm state + calm-thought / body-first wording"
+    },
+    {
+      "combination_id": "C02",
+      "concepts": [
+        "ALM01",
+        "ALM03"
+      ],
+      "label": "Wired/alarm state + no consciously identified trigger"
+    },
+    {
+      "combination_id": "C03",
+      "concepts": [
+        "ALM01",
+        "PAI01"
+      ],
+      "label": "Wired/alarm state + diffuse pain"
+    },
+    {
+      "combination_id": "C04",
+      "concepts": [
+        "ALM01",
+        "CAR01"
+      ],
+      "label": "Wired/alarm state + heartbeat sensations"
+    },
+    {
+      "combination_id": "C05",
+      "concepts": [
+        "ALM01",
+        "NEU01"
+      ],
+      "label": "Wired/alarm state + head pressure"
+    },
+    {
+      "combination_id": "C06",
+      "concepts": [
+        "ALM01",
+        "ALM02",
+        "ALM03"
+      ],
+      "label": "All three wired/alarm-related descriptions"
+    }
+  ],
+  "rule_aliases": {
+    "wider": "non_excluded",
+    "stricter": "qualified_comparison"
+  },
+  "default_report_rule": "non_excluded",
+  "default_wording": "explicit_and_limited_inference",
+  "symptom_display_count": "account_reports_after_known_links",
+  "combination_display_count": "within_post_account_reports",
+  "identity_limit": "No full global account or patient mapping is established."
+}

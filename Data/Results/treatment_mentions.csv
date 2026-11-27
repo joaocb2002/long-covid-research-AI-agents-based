@@ -1,0 +1,27 @@
+treatment_group,label,matching_records,posts
+amitriptyline,Amitriptyline,4,2
+buspirone,Buspirone,6,6
+caffeine,Caffeine,10,10
+cannabinoid_composition,Cannabinoids by names/components,43,21
+clonazepam,Clonazepam,11,7
+clonidine,Clonidine,18,11
+creatine,Creatine,5,1
+dexamethasone,Dexamethasone,0,0
+diazepam,Diazepam,7,5
+duloxetine,Duloxetine,8,4
+guanfacine,Guanfacine,15,6
+ivig,Intravenous immunoglobulin,0,0
+ketamine,Ketamine,3,2
+meditation_mindfulness,Meditation / mindfulness,46,28
+naltrexone,Naltrexone,44,26
+pantoprazole,Pantoprazole,0,0
+paroxetine,Paroxetine,4,2
+plasma_exchange,Plasma exchange,0,0
+prazosin,Prazosin,1,1
+pregabalin,Pregabalin,3,3
+propranolol,Propranolol,44,26
+psychology,Psychology,1,1
+rituximab,Rituximab,0,0
+stellate_ganglion_block,Stellate ganglion block,13,6
+vagus_directed_stimulation,Vagus-directed stimulation,3,3
+valproate,Valproate,0,0

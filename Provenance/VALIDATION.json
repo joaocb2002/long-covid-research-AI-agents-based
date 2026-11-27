@@ -1,0 +1,62 @@
+{
+  "result": "PASS",
+  "date": "2026-11-27",
+  "source_catalogues_consistent": true,
+  "input_bindings_verified": 243,
+  "annotated_rows_preserved": 14961,
+  "retained_field_values_exactly_match_original_master": true,
+  "original_classifications_unchanged": true,
+  "independent_SQL_recount": {
+    "result": "PASS",
+    "annotated_records": 14961,
+    "categories": 74,
+    "verified_rows": {
+      "symptom_counts.csv": 296,
+      "symptom_combinations.csv": 24,
+      "record_inventory.csv": 8,
+      "original_classifications.csv": 5,
+      "treatment_mentions.csv": 26,
+      "reported_symptoms.csv": 23
+    },
+    "network_required": false,
+    "LLM_required": false,
+    "scope": "Recounts released annotations; does not independently validate their interpretation."
+  },
+  "unchanged_PDF_copies": [
+    {
+      "path": "Reading/Study_Overview.pdf",
+      "pages": 1,
+      "sha256": "440b27b651774efd1ac191082655f69f13a5eced864cc2a0bf8f8ef8f2815b08",
+      "unchanged_copy": true
+    },
+    {
+      "path": "Reading/Data_Collection_and_Analysis.pdf",
+      "pages": 3,
+      "sha256": "25911056afb408c579f65ab9e2d0302810f8a82bdafe1957e883bfb91830bdcc",
+      "unchanged_copy": true
+    },
+    {
+      "path": "Reading/Descriptive_Results.pdf",
+      "pages": 4,
+      "sha256": "3b60a8f147f19d4d0f49c649007227f0e2a21ee75f6aa6ec071829e9b42990d9",
+      "unchanged_copy": true
+    },
+    {
+      "path": "Clinical_Case/Long Covid - Clinical History and Treatment Course - João CB.pdf",
+      "pages": 25,
+      "sha256": "a78d3e0d272d7c0766d4ece41e129d5d63d6ee4ca36a3ec02d138079068afee0",
+      "unchanged_copy": true
+    }
+  ],
+  "local_links_checked": 22,
+  "no_external_HTML_assets_or_scripts": true,
+  "known_credential_pattern_scan": "no matches",
+  "narrative_fields_omitted": true,
+  "raw_source_text_redistributed": false,
+  "clinical_PDF_included_at_owner_request": true,
+  "medical_validation_claimed": false,
+  "privacy_or_ethics_approval_claimed": false,
+  "LLM_reexecution_claimed": false,
+  "size_cap_bytes_unpacked": 1000000000,
+  "visual_QA": "Unchanged reading PDFs retain prior visual QA; renamed copies are hash-identical. Clinical PDF is an unchanged user-supplied file."
+}

@@ -1,0 +1,75 @@
+concept_id,domain,label,operational_definition,target_role,case_state,case_anchor_role
+ALM01,alarm_activation,Persistent internal alarm or wired state,Subjective alarm-like activation not reducible to a single peripheral symptom.,core_discriminator,present_reported,core_overlap
+ALM02,alarm_activation,Body-before-thought ordering,Bodily activation explicitly precedes or occurs without initiating worry/fear cognition.,core_discriminator,present_reported,core_overlap
+ALM03,alarm_activation,No consciously identified trigger,Writer explicitly reports no psychological or situational trigger.,core_discriminator,present_reported,core_overlap
+ALM04,alarm_activation,Discrete panic-like attacks,"Abrupt bounded episodes, coded separately from baseline state.",controlled_divergence,partial_correspondence,boundary
+ALM05,alarm_activation,Inter-episode baseline recovery,Return to baseline between episodes.,controlled_divergence,reported_absent,controlled_divergence
+CAR01,cardiovascular,Palpitations or forceful heartbeat,"Awareness of pounding, forceful, skipped, or rapid heartbeat.",associated_feature,present_reported,associated_overlap
+CAR02,cardiovascular,Measured tachycardia,Instrument-confirmed high heart rate as reported.,controlled_divergence,not_established,boundary
+CAR03,cardiovascular,Measured normal or low heart rate,Instrument-reported normal/not-high/bradycardic heart rate without assuming simultaneity.,associated_feature,partial_correspondence,boundary
+CAR04,cardiovascular,Blood-pressure abnormality,"Reported high, low, or labile blood pressure.",associated_feature,medication_context_only,boundary
+COG01,cognitive,Accelerated or overly intense thoughts,Subjective thought speed/intensity increase without inferring mania.,associated_feature,historical_reported,historical_context
+COG02,cognitive,Brain fog or cognitive slowing,"Subjective cognitive clouding, slowing, attention, or memory difficulty.",associated_feature,reported_absent,controlled_divergence
+COG03,cognitive,Ambiguous mental disorientation,Writer uses confusion/disorientation language without enough detail to classify literally.,boundary_feature,historical_reported,historical_context
+COG04,cognitive,Altered cognitive flow or appraisal,Thoughts no longer flow naturally or are hard to evaluate calmly.,associated_feature,historical_reported,historical_context
+DIS01,dissociation,Derealization,World feels unreal/dreamlike with reality testing coded separately.,boundary_feature,not_established,boundary
+DIS02,dissociation,Depersonalization,Self feels detached/unreal with reality testing coded separately.,boundary_feature,not_established,boundary
+DIS03,dissociation,Dreamlike or altered-presence experience,"Unreal, high, drugged, concussed, screen-like, or distant presence not otherwise specified.",boundary_feature,not_established,boundary
+DIS04,dissociation,Embodiment disturbance,"Altered ownership, body–brain connection, floating, or outside-body experience.",boundary_feature,not_established,boundary
+FAT01,fatigue_exertion,Fatigue or exhaustion,Fatigue distinct from sleepiness where possible.,associated_feature,reported_absent,controlled_divergence
+FAT02,fatigue_exertion,PEM or post-exertional worsening,Delayed or prolonged worsening after exertion; self-label and operational features separated.,boundary_feature,reported_absent,controlled_divergence
+GAS01,gastrointestinal,Nausea,Mild to severe nausea as reported.,associated_feature,historical_reported,historical_context
+GEN01,genitourinary,Urinary urgency or nocturia,"Urgency, frequency, or nighttime urination.",associated_feature,historical_reported,historical_context
+INT01,interoception_attention,Involuntary internal scanning,Automatic intrusive monitoring/prominence of internal signals.,core_discriminator,present_reported,core_overlap
+INT02,interoception_attention,Deliberate body checking or monitoring,"Intentional checking, reassurance seeking, or chosen body scan.",boundary_feature,not_established,boundary
+INT03,interoception_attention,Abnormally intense bodily presence,"Body feels excessively present, salient, or amplified.",core_discriminator,present_reported,core_overlap
+INT04,interoception_attention,Internal vibration or buzzing,"Internally perceived vibration, buzzing, or tremulousness.",associated_feature,not_reported,boundary
+MIS01,measurement_mismatch,Palpitations or apparent tachycardia with simultaneous non-high HR,Severe heartbeat sensation paired with contemporaneous normal/not-high measured rate.,core_discriminator,partial_correspondence,core_boundary_overlap
+MIS02,measurement_mismatch,Air hunger with simultaneous non-abnormal simple measure,Air hunger paired with contemporaneous oxygen/respiratory measure reported non-abnormal.,core_discriminator,not_established,boundary
+MIS03,measurement_mismatch,Internal severity with outward composure,Reported severe internal state despite little externally visible activation.,core_discriminator,partial_correspondence,core_boundary_overlap
+MOD01,context_modulation,Quiet or low-stimulation prominence,Symptoms worsen or become more prominent in quiet/neutral contexts.,core_discriminator,historical_reported,historical_context
+MOD02,context_modulation,Salient engagement masks symptoms,"Social, emotional, or absorbing engagement reduces awareness/prominence without assumed physiological resolution.",core_discriminator,present_reported,core_overlap
+MOD03,context_modulation,External sensory input worsens symptoms,"Light, sound, touch, screens, or busy settings worsen symptoms.",controlled_divergence,partial_correspondence,boundary
+MOD04,context_modulation,Postural modulation,"Lying, sitting, standing, or orthostasis changes symptoms.",boundary_feature,present_reported,associated_overlap
+MOD05,context_modulation,Exertional worsening or PEM-like pattern,Physical/cognitive exertion followed by worsening; formal PEM not assumed.,boundary_feature,partial_correspondence,boundary
+MOD06,context_modulation,Meal or food modulation,Food/meal temporally changes symptoms.,boundary_feature,not_reported,boundary
+MOD07,context_modulation,Stress or emotional provocation,Stress/emotion triggers or worsens the reported state.,boundary_feature,present_reported,associated_overlap
+MOT01,motor_restlessness,Inner restlessness,Internal urge or inability to feel still.,boundary_feature,partial_correspondence,boundary
+MOT02,motor_restlessness,Observable pacing or motor urge,"Pacing, inability to sit, repetitive movement, or objective motor restlessness.",boundary_feature,not_reported,boundary
+MOT03,motor_restlessness,Medication-timed akathisia-like syndrome,Restlessness temporally linked to medication start/change/withdrawal; diagnosis not assumed.,high_priority_boundary,not_established,boundary
+NEU01,neurological_somatic,Head pressure,"Pressure, squeezing, tight-band, or skull-too-small sensation.",associated_feature,present_reported,associated_overlap
+NEU02,neurological_somatic,Head or brain burning sensation,Subjective internal burning/heat in head.,associated_feature,partial_correspondence,boundary
+NEU03,neurological_somatic,"Twitching, tremor, or shaking",Involuntary or subjectively internal movement phenomenon.,associated_feature,not_established,boundary
+NEU04,neurological_somatic,Startle sensitivity,Increased or exaggerated startle response.,associated_feature,present_reported,associated_overlap
+NEU05,neurological_somatic,Sensory sensitivity,"Light, sound, touch, visual, or multisensory intolerance.",associated_feature,partial_correspondence,boundary
+NEU06,neurological_somatic,"Dizziness, presyncope, or syncope","Dizziness through loss-of-consciousness spectrum, coded with exact wording.",boundary_feature,present_reported,associated_overlap
+PAI01,pain,Diffuse bodily discomfort or pain,Widespread or hard-to-localize pain/discomfort.,associated_feature,present_reported,core_overlap
+PSY01,psychiatric_boundary,Initiating worry or rumination,Worry/fear cognition reported before bodily activation.,controlled_divergence,reported_absent,controlled_divergence
+PSY02,psychiatric_boundary,Secondary fear or distress,Fear/distress follows or reacts to bodily/cognitive symptoms.,boundary_feature,present_reported,associated_overlap
+PSY03,psychiatric_boundary,Fear of going crazy with insight,Meta-cognitive fear/interpretation with preserved or unlost reality testing.,core_boundary,historical_reported,historical_context
+PSY04,psychiatric_boundary,Hallucination-like experience,Perception without external stimulus; modality/content and insight required.,high_priority_boundary,historical_denial,high_priority_boundary
+PSY05,psychiatric_boundary,Delusional or fixed false belief,Fixed conviction not culturally sanctioned; coder must not infer from odd thoughts alone.,high_priority_boundary,historical_denial,high_priority_boundary
+PSY06,psychiatric_boundary,Formal thought disorder or gross disorganization,Disorganized thought/speech/behavior explicitly described.,high_priority_boundary,historical_denial,high_priority_boundary
+PSY07,psychiatric_boundary,Loss or impairment of reality testing,Explicit impaired reality testing or inability to recognize experience as altered.,high_priority_boundary,historical_denial,high_priority_boundary
+PSY08,psychiatric_boundary,Mania or hypomania feature cluster,"Elevated/expansive mood, decreased need for sleep, grandiosity, goal-directed activation, or risk behavior; single accelerated-thought report is insufficient.",high_priority_boundary,historical_denial,high_priority_boundary
+PSY09,psychiatric_boundary,Depressed mood or anhedonia,Mood/anhedonia report kept separate from fatigue and DPDR.,boundary_feature,not_established,boundary
+PSY10,psychiatric_boundary,Suicidality or self-harm,"Passive death wish, ideation, intent, plan, attempt, or self-harm; immediacy coded separately.",safety_boundary,not_assessed,safety_boundary
+PSY11,psychiatric_boundary,Trauma-linked symptoms,"Cue-linked re-experiencing, avoidance, nightmares, or hyperarousal.",boundary_feature,not_reported,boundary
+PSY12,psychiatric_boundary,Obsessive or compulsive checking,"Intrusions, compulsions, reassurance seeking, or voluntary checking pattern.",boundary_feature,not_established,boundary
+PSY13,psychiatric_boundary,Psychiatric label or dismissal only,Psychiatric terminology without enough direct phenomenology.,context_only,historical_reported,historical_context
+RES01,respiratory,Air hunger or dyspnea,Unsatisfied breathing or shortness of breath.,associated_feature,present_reported,associated_overlap
+RES02,respiratory,Hyperventilation or low CO2,"Reported hyperventilation, hypocapnia, or low carbon dioxide.",boundary_feature,not_established,boundary
+SLP01,sleep,Sleep initiation preserved,Ability to fall asleep reported relatively preserved.,core_discriminator,historical_reported,historical_context
+SLP02,sleep,Sleep maintenance preserved,Ability to remain asleep reported relatively preserved.,core_discriminator,historical_reported,historical_context
+SLP03,sleep,Non-restorative sleep,Sleep does not restore normal state.,associated_feature,reported_absent,controlled_divergence
+SLP04,sleep,Insomnia,Difficulty initiating or maintaining sleep.,controlled_divergence,historical_denial,controlled_divergence
+SLP05,sleep,Nocturnal awakenings or sleep-boundary surges,Repeated waking or jolts/surges around sleep.,boundary_feature,not_reported,boundary
+TMP01,temporality,Present at first consciousness,"State already present immediately on waking before standing, phone use, food, or medication when specified.",core_discriminator,present_reported,core_overlap
+TMP02,temporality,Continuous or 24/7 baseline,Unbroken or nearly unbroken baseline state.,core_discriminator,present_reported,core_overlap
+TMP03,temporality,Episodic pattern,Bounded attacks or episodes with meaningful intervals.,controlled_divergence,partial_correspondence,boundary
+TMP04,temporality,Relapsing-remitting course,Longer flares and remissions over time.,associated_feature,partial_correspondence,boundary
+TMP05,temporality,No true return to baseline,Explicit absence of symptom-free baseline.,core_discriminator,present_reported,core_overlap
+TMP06,temporality,Onset after reported infection,Symptoms reported to begin after infection; temporal association only.,eligibility_context,present_reported,associated_overlap
+TMP07,temporality,Worsening after reinfection,Reported worsening temporally following another infection.,associated_feature,partial_correspondence,boundary
+TMP08,temporality,Gradual onset,Symptoms emerge progressively rather than abruptly.,associated_feature,present_reported,associated_overlap
+TMP09,temporality,Slow partial improvement,Incomplete improvement over months/years.,associated_feature,historical_reported,historical_context

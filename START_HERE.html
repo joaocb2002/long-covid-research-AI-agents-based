@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Long COVID research — start here</title>
+<style>
+body{margin:0;color:#181818;background:#fff;font-family:Georgia,"Times New Roman",serif;font-size:18px;line-height:1.6}
+main{max-width:890px;margin:48px auto;padding:0 28px 50px}h1{font-size:34px;line-height:1.2;font-weight:normal;margin-bottom:18px}h2{font-size:23px;margin-top:34px}h3{font-size:19px;margin-bottom:3px}a{color:#222;text-decoration:underline;text-underline-offset:3px}a:hover{color:#555}header{border-bottom:1px solid #555;padding-bottom:18px}.subtitle{font-size:20px}.small{font-size:15px;color:#444}.documents{padding-left:25px}.documents li{margin:16px 0}.documents p{margin:3px 0}table{border-collapse:collapse;width:100%;font-size:16px}th,td{text-align:left;vertical-align:top;border-bottom:1px solid #ccc;padding:9px 12px}th{background:#eee}code{font-size:.83em;background:#f4f4f4;padding:2px 5px}footer{border-top:1px solid #aaa;margin-top:36px;padding-top:12px;font-size:14px}@media(max-width:600px){main{margin:25px auto;padding:0 18px 30px}h1{font-size:28px}body{font-size:17px}}@media print{main{margin:0;max-width:none;padding:0}body{font-size:11pt}h1{font-size:24pt}h2{font-size:16pt}table{font-size:10pt}a{color:#000}}
+</style>
+</head>
+<body><main>
+<header><p class="small">Research supporting a clinician-written case report</p>
+<h1>Long COVID: AI-agent-led evidence processing</h1>
+<p class="subtitle">A compact guide to selected online accounts, their processing and the descriptive findings.</p>
+<p>Most collection, extraction, reconciliation and technical checking was executed by AI agents under the patient's direction. The medical team is responsible for interpretation, validation and case-report writing under the <a href="https://www.care-statement.org/checklist">CARE guidelines</a>.</p></header>
+<h2>Read these first</h2>
+<ol class="documents">
+<li><a href="Reading/Study_Overview.pdf"><strong>Study overview</strong></a><p>One page explaining how to read the counts.</p></li>
+<li><a href="Reading/Data_Collection_and_Analysis.pdf"><strong>Collection and analysis methods</strong></a><p>Three pages describing the procedure and its checks.</p></li>
+<li><a href="Reading/Descriptive_Results.pdf"><strong>Descriptive results</strong></a><p>Four pages of findings, symptom combinations, differences and treatment mentions.</p></li>
+</ol>
+<p><a href="Clinical_Case/Long%20Covid%20-%20Clinical%20History%20and%20Treatment%20Course%20-%20Jo%C3%A3o%20CB.pdf"><strong>Clinical history and treatment course</strong></a>: the patient-provided reference for case writing. This identified clinical PDF was supplied later; it was not retrospectively substituted as the input to earlier analysis.</p>
+<h2>The collection in plain numbers</h2>
+<p>The patient supplied 159 unique posts. Further searches added 65, giving 224 collected posts with accessible comments. Thirteen calibration posts were kept outside numerical analysis, leaving 211. The 14,961 coded statements or events are not people.</p>
+<p>Selection sought symptom overlap and sometimes retained useful contrasts. Counts describe selected reports, not population prevalence or a clinically verified patient cohort.</p>
+<h2>Seven processing stages</h2>
+<table><thead><tr><th>Stage</th><th>Purpose</th></tr></thead><tbody>
+<tr><td>1. Preserve</td><td>Check and freeze collected sources and access notes.</td></tr>
+<tr><td>2. Define</td><td>Write categories and recording rules.</td></tr>
+<tr><td>3. Organise</td><td>Separate messages, local authors and source references.</td></tr>
+<tr><td>4. Extract</td><td>Run separate AI passes, reconcile and audit.</td></tr>
+<tr><td>5. Check</td><td>Review combined-data consistency and restrictions.</td></tr>
+<tr><td>6. Analyse</td><td>Count features and combinations and compare with the clinical description.</td></tr>
+<tr><td>7. Present</td><td>Produce readable reports and supporting tables.</td></tr>
+</tbody></table>
+<p class="small">Medical review was historically called Stage 8. It remains separate from these seven execution stages.</p>
+<h2>What the effort does—and does not—show</h2>
+<p>The historical review recorded 293.51 hours of main-agent task duration and 1,213 subagent task identities through 11 November 2026. Task duration includes waiting and I/O; it is not measured GPU or inference time.</p>
+<p>The effort and large historical archive produced concise descriptive findings, not a large independent clinical cohort. AI interpretation can be wrong, and separate agents can share errors. There is no benchmark demonstrating an advantage over a simpler workflow.</p>
+<h2>For someone checking the results</h2>
+<p><a href="Sources/initial_posts.csv">Initial source list</a> · <a href="Sources/all_posts.csv">Complete source list</a> · <a href="Data/Results/reported_symptoms.csv">Reported symptom table</a> · <a href="Data/Results/treatment_mentions.csv">Treatment mentions</a></p>
+<p>The matching JSON catalogues and coded tables are in the same folders. The <a href="Data/DATA_DICTIONARY.md">data guide</a> explains their fields. <a href="Methods/AI_Methods.md">AI methods</a> explains the model records and limitations.</p>
+<p>From the package root, run <code>python3 Reproduce/rebuild_tables.py</code>. It uses the standard library and needs no Internet, LLM or original archive. A successful check reproduces calculations from annotations, not a fresh AI extraction or clinical validation.</p>
+<p>Original author labels work mainly within posts. Only documented cross-post links are merged. A complete distinct-patient total is not established. The narrative archive remains separate; quotations and other third-party free text are not redistributed in this compact release.</p>
+<footer>See <a href="README.md">README</a> for the scope and file map, <a href="REUSE.md">reuse boundaries</a>, and <a href="Provenance/README.md">provenance</a>. This page has no tracking, external assets or scripts. Package date: 27 November 2026.</footer>
+</main></body></html>

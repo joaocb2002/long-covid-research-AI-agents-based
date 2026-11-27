@@ -1,0 +1,24 @@
+section,concept_id,label,posts,account_reports,explicit_only_account_reports
+central_findings,ALM01,Alarm or wired state,105,271,256
+central_findings,ALM02,Bodily alarm with calm thoughts / body-first wording,35,37,37
+central_findings,ALM03,No consciously identified trigger,32,37,35
+central_findings,PAI01,Diffuse bodily pain or discomfort,37,55,55
+central_findings,CAR01,Palpitations or heartbeat sensations,83,138,132
+central_findings,NEU01,Head pressure,37,48,45
+selected_experiences,TMP01,Symptoms already present on waking,16,19,19
+selected_experiences,TMP02,Continuous underlying symptoms,60,98,97
+selected_experiences,TMP05,No full return to the earlier baseline,13,14,14
+selected_experiences,RES01,Air hunger or breathlessness,56,82,81
+selected_experiences,NEU04,Exaggerated startle,12,12,11
+selected_experiences,NEU06,"Dizziness, faintness or fainting",77,123,122
+selected_experiences,INT01,Involuntary attention to bodily signals,1,1,1
+selected_experiences,INT03,Unusually intense bodily presence,1,0,0
+selected_experiences,INT04,Internal vibration or buzzing,32,52,50
+selected_experiences,PSY02,Fear or distress described as secondary,94,151,146
+selected_experiences,MIS01,Heartbeat sensations with a non-high measured rate,1,3,3
+selected_experiences,CAR03,Reported normal or low measured heart rate,14,16,16
+clinical_differences,FAT01,Fatigue / exhaustion,120,213,209
+clinical_differences,COG02,Brain fog / cognitive slowing,112,229,225
+clinical_differences,FAT02,Post-exertional worsening,53,74,72
+clinical_differences,SLP03,Sleep not physically restorative,13,18,17
+clinical_differences,SLP04,Insomnia,91,144,142

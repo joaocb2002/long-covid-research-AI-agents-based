@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+_reproduced/
+.venv/
+node_modules/
+*.tmp

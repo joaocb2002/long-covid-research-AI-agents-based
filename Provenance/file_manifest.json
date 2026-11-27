@@ -1,0 +1,321 @@
+{
+  "date": "2026-11-27",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "purpose": "Stable text line endings and PDF binary handling",
+      "bytes": 149,
+      "sha256": "837807a647ef0a70c51ad5ba93e074f3b572b48eddbcf1b4b61e9ea2bab5de90",
+      "status": "included"
+    },
+    {
+      "path": ".gitignore",
+      "purpose": "Keep local environment and replay files out of Git",
+      "bytes": 69,
+      "sha256": "4d6323fcdc1b2566782e781453f053d4aad18cfe0878ec3777fc38643a653cac",
+      "status": "included"
+    },
+    {
+      "path": "Clinical_Case/Long Covid - Clinical History and Treatment Course - João CB.pdf",
+      "purpose": "Identified patient-provided case-writing reference",
+      "bytes": 869203,
+      "sha256": "a78d3e0d272d7c0766d4ece41e129d5d63d6ee4ca36a3ec02d138079068afee0",
+      "status": "included"
+    },
+    {
+      "path": "Data/DATA_DICTIONARY.md",
+      "purpose": "Field, unit and result-table definitions",
+      "bytes": 6043,
+      "sha256": "30f2e2f7b52878dfdcd4ff41abadfa84bd1d01f67914467e0060132bdb777191",
+      "status": "included"
+    },
+    {
+      "path": "Data/Results/original_classifications.csv",
+      "purpose": "Reference results reproduced from released annotations",
+      "bytes": 145,
+      "sha256": "46cc8a3af94784cf5e07c9ce0a50999300068be7384b1147f1a2c237d570b239",
+      "status": "included",
+      "records": 5
+    },
+    {
+      "path": "Data/Results/record_inventory.csv",
+      "purpose": "Reference results reproduced from released annotations",
+      "bytes": 167,
+      "sha256": "7d697644cc72f1a6c37096c9d9a952ff7c00f8fa143c4aa57b1ce19ac9646665",
+      "status": "included",
+      "records": 8
+    },
+    {
+      "path": "Data/Results/reported_symptoms.csv",
+      "purpose": "Reference results reproduced from released annotations",
+      "bytes": 1628,
+      "sha256": "05096a61af377aaa95292c241ba7c4e9547a02f106082c9fc76c3dba0cf3bb2a",
+      "status": "included",
+      "records": 23
+    },
+    {
+      "path": "Data/Results/symptom_combinations.csv",
+      "purpose": "Reference results reproduced from released annotations",
+      "bytes": 1719,
+      "sha256": "2e5b32ad28e6237afc35aa47f6ddac74ccd38db0e8fae2215923a8a7975a2d1b",
+      "status": "included",
+      "records": 24
+    },
+    {
+      "path": "Data/Results/symptom_counts.csv",
+      "purpose": "Reference results reproduced from released annotations",
+      "bytes": 27305,
+      "sha256": "2728cb3d8ff2b6f3356c06f3ceee211530b08386bf9fbcfdeb7bebdf4bddd227",
+      "status": "included",
+      "records": 296
+    },
+    {
+      "path": "Data/Results/treatment_mentions.csv",
+      "purpose": "Reference results reproduced from released annotations",
+      "bytes": 865,
+      "sha256": "619dc42ff9b8380573eaf5f49a8a694dce20e6305c03688bf4228ed4b75c0646",
+      "status": "included",
+      "records": 26
+    },
+    {
+      "path": "Data/annotated_records.csv",
+      "purpose": "Non-narrative projection of all 14,961 original coded records",
+      "bytes": 6155646,
+      "sha256": "6a77d50a8a94d5d1e8665129ba5763c9f20b4c2be7d336cbe5b666fc91ca3f74",
+      "status": "included",
+      "records": 14961
+    },
+    {
+      "path": "Data/author_links.csv",
+      "purpose": "Source-local anonymous author roles and link basis",
+      "bytes": 229238,
+      "sha256": "89b8c1e3833e55397aa8911b67cca947fac2774c1326a828ec76d7e01a439bd6",
+      "status": "included",
+      "records": 4184
+    },
+    {
+      "path": "Data/category_definitions.csv",
+      "purpose": "74 original concept definitions and case-feature states",
+      "bytes": 12742,
+      "sha256": "da6a2fa47432b92a180ed7b74f55a17e34e2e3ba3244842e002ae340537c0e4b",
+      "status": "included",
+      "records": 74
+    },
+    {
+      "path": "Data/field_values.json",
+      "purpose": "Actual retained classification vocabulary",
+      "bytes": 9764,
+      "sha256": "d3b62eaac22c1d4e431a68b1344191b8da740f301363dd0431fe92ae40e9a338",
+      "status": "included"
+    },
+    {
+      "path": "Data/known_account_links.csv",
+      "purpose": "Only previously documented cross-post links",
+      "bytes": 112,
+      "sha256": "6a2d49c28fda34c33feada4e554ecc18e0fa05cf157e935c9001c34fa6610922",
+      "status": "included",
+      "records": 4
+    },
+    {
+      "path": "Data/text_units.csv",
+      "purpose": "Message-to-local-author attribution without text",
+      "bytes": 287309,
+      "sha256": "a9efdbfd1699879d50aed438ec2fbd994f8f255a7e80054b15f908e41110c7b0",
+      "status": "included",
+      "records": 7588
+    },
+    {
+      "path": "Data/treatment_group_membership.csv",
+      "purpose": "Earlier treatment-name group assignments",
+      "bytes": 8776,
+      "sha256": "183069ec19100c3a79c72d0ff27996941aad82bd34482f8553ab74b928ec693a",
+      "status": "included",
+      "records": 292
+    },
+    {
+      "path": "Methods/AI_Methods.md",
+      "purpose": "Processing, AI methods or fixed counting definitions",
+      "bytes": 4390,
+      "sha256": "b449340d74dd6442fce4d1034d3165d648e2c0aeafff800649553657218e93fd",
+      "status": "included"
+    },
+    {
+      "path": "Methods/Archived_AI_Extraction_Protocol.md",
+      "purpose": "Processing, AI methods or fixed counting definitions",
+      "bytes": 13358,
+      "sha256": "c5a755f3aa91cfda0a8bf9b355b439b62d5385f234e2bc1c6777c27445c6f988",
+      "status": "included"
+    },
+    {
+      "path": "Methods/Processing_Workflow.md",
+      "purpose": "Processing, AI methods or fixed counting definitions",
+      "bytes": 4938,
+      "sha256": "f5e16945f9e86dc77251adb131ceffeea8482e8698f86d30b7a2ac0774f48273",
+      "status": "included"
+    },
+    {
+      "path": "Methods/counting_rules.json",
+      "purpose": "Processing, AI methods or fixed counting definitions",
+      "bytes": 4479,
+      "sha256": "f7cbd83b9895b98128613f5e8f8e729ee4529d7f205f7da03ce86d30038a90c3",
+      "status": "included"
+    },
+    {
+      "path": "Methods/treatment_name_groups.json",
+      "purpose": "Processing, AI methods or fixed counting definitions",
+      "bytes": 3483,
+      "sha256": "7c5d3bfb06ac7941aed2c25748c866829118598682b2c80a0fcf1a1c25d98523",
+      "status": "included"
+    },
+    {
+      "path": "Provenance/README.md",
+      "purpose": "Origin, transformation or integrity record",
+      "bytes": 1869,
+      "sha256": "2cf1a2b19959313ea631e43bb751cbe0a6541f059c49ddf7be0300e7dec1f351",
+      "status": "included"
+    },
+    {
+      "path": "Provenance/VALIDATION.json",
+      "purpose": "Bounded packaging and independent recount checks",
+      "bytes": 2203,
+      "sha256": "cf709f918b17161742d5f7a91f825ae244bf458c5a1685345664ae70a545a84c",
+      "status": "included"
+    },
+    {
+      "path": "Provenance/archive_input_bindings.json",
+      "purpose": "Origin, transformation or integrity record",
+      "bytes": 45928,
+      "sha256": "15a3001a8653a715ad54bda311840ab47ad5e57417f5c76665b4e22c20b55d53",
+      "status": "included"
+    },
+    {
+      "path": "Provenance/clinical_reference_roles.json",
+      "purpose": "Origin, transformation or integrity record",
+      "bytes": 624,
+      "sha256": "0182b45ee1bc5eea37e1fbade1acfc1e30fadb3d6b80c6ab187cea151f5599ae",
+      "status": "included"
+    },
+    {
+      "path": "Provenance/original_supplied_links.txt",
+      "purpose": "Origin, transformation or integrity record",
+      "bytes": 15370,
+      "sha256": "93663272864a701e4a464996c4daf912194e0d1b29762f4d0f366bb52886e8da",
+      "status": "included"
+    },
+    {
+      "path": "Provenance/public_projection.json",
+      "purpose": "Origin, transformation or integrity record",
+      "bytes": 1826,
+      "sha256": "84f876b6b028b4b3dd5dc4e35b531be6765999cae1317c1638df7e5f47e3d6f4",
+      "status": "included"
+    },
+    {
+      "path": "Provenance/release_metadata.json",
+      "purpose": "Origin, transformation or integrity record",
+      "bytes": 625,
+      "sha256": "70d0d25d176234726664cfdc1f6ca5b84e4a01c9aedf591e3240084aaa629daa",
+      "status": "included"
+    },
+    {
+      "path": "Provenance/source_bindings.json",
+      "purpose": "Origin, transformation or integrity record",
+      "bytes": 66318,
+      "sha256": "aa6c20cc4dd3e46519be9ab9a90b2643df9333ecf8de3809a7bd892a61a1ff32",
+      "status": "included"
+    },
+    {
+      "path": "README.md",
+      "purpose": "Project scope, reading order, stages and limits",
+      "bytes": 5297,
+      "sha256": "d3e8e14cf7d26b0ce0a4c0ae476ead9ebfbfe219b4cf779b91f5bedd781a0dcc",
+      "status": "included"
+    },
+    {
+      "path": "REUSE.md",
+      "purpose": "Reuse, publication and confidentiality boundaries",
+      "bytes": 1912,
+      "sha256": "7bad35d6c541bbff648786af9b26ae21237369e3fc7653b199b9461a601175f0",
+      "status": "included"
+    },
+    {
+      "path": "Reading/Data_Collection_and_Analysis.pdf",
+      "purpose": "Unchanged final reading document under a descriptive filename",
+      "bytes": 74091,
+      "sha256": "25911056afb408c579f65ab9e2d0302810f8a82bdafe1957e883bfb91830bdcc",
+      "status": "included"
+    },
+    {
+      "path": "Reading/Descriptive_Results.pdf",
+      "purpose": "Unchanged final reading document under a descriptive filename",
+      "bytes": 74677,
+      "sha256": "3b60a8f147f19d4d0f49c649007227f0e2a21ee75f6aa6ec071829e9b42990d9",
+      "status": "included"
+    },
+    {
+      "path": "Reading/Study_Overview.pdf",
+      "purpose": "Unchanged final reading document under a descriptive filename",
+      "bytes": 66238,
+      "sha256": "440b27b651774efd1ac191082655f69f13a5eced864cc2a0bf8f8ef8f2815b08",
+      "status": "included"
+    },
+    {
+      "path": "Reproduce/README.md",
+      "purpose": "Self-contained deterministic recount and run instructions",
+      "bytes": 2024,
+      "sha256": "c07e9c57f4c0f7c0c12811731ca4d20e267c7733e6b38b3ddc0f27e534d0bbb8",
+      "status": "included"
+    },
+    {
+      "path": "Reproduce/rebuild_tables.py",
+      "purpose": "Self-contained deterministic recount and run instructions",
+      "bytes": 9797,
+      "sha256": "25f935d9e9951ece0fd79c3ae0f41a30d8d4ea28730bfc163b64f2699431f004",
+      "status": "included"
+    },
+    {
+      "path": "Reproduce/requirements.txt",
+      "purpose": "Self-contained deterministic recount and run instructions",
+      "bytes": 81,
+      "sha256": "13f62e07066c554d24d815a1c565844a70633f901e1aaa47416954a53ec92f4d",
+      "status": "included"
+    },
+    {
+      "path": "START_HERE.html",
+      "purpose": "Offline human-readable introduction",
+      "bytes": 6113,
+      "sha256": "7abab8fa17558f2dc52d5c901adc8b08e9ef9d3bbdce41aa22c98d76788a0e03",
+      "status": "included"
+    },
+    {
+      "path": "Sources/all_posts.csv",
+      "purpose": "Initial or complete source catalogue",
+      "bytes": 31844,
+      "sha256": "9e0d2d12929b0a5313ab9570f3057c148440a84906c3e67f2f32d282c3f9cb4a",
+      "status": "included",
+      "records": 224
+    },
+    {
+      "path": "Sources/all_posts.json",
+      "purpose": "Initial or complete source catalogue",
+      "bytes": 82221,
+      "sha256": "92c70feec6f14b14a1a7bd2fb0d58b7b87d647e2dcf65d36a7f84a1784614b37",
+      "status": "included"
+    },
+    {
+      "path": "Sources/initial_posts.csv",
+      "purpose": "Initial or complete source catalogue",
+      "bytes": 22250,
+      "sha256": "21cf4a605aff86201b9ea3d29e80ab76e78e97e35e124bd87eeb2824a79358e2",
+      "status": "included",
+      "records": 159
+    },
+    {
+      "path": "Sources/initial_posts.json",
+      "purpose": "Initial or complete source catalogue",
+      "bytes": 58002,
+      "sha256": "796242d90931951558e71512c2608ca5e513eeb2f75796ed7c711742f841df2b",
+      "status": "included"
+    }
+  ],
+  "manifest_and_checksum_file_omitted_from_this_list": true
+}

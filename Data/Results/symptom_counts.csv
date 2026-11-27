@@ -1,0 +1,297 @@
+selection_rule,wording_rule,concept_id,label,posts_with_reports,posts_with_countable_accounts,within_post_account_reports,account_reports_after_known_links,positive_observations,countable_observations
+qualified_comparison,explicit_and_limited_inference,ALM01,Persistent internal alarm or wired state,34,34,84,84,96,90
+qualified_comparison,explicit_and_limited_inference,ALM02,Body-before-thought ordering,12,11,13,13,14,13
+qualified_comparison,explicit_and_limited_inference,ALM03,No consciously identified trigger,13,13,15,15,15,15
+qualified_comparison,explicit_and_limited_inference,ALM04,Discrete panic-like attacks,34,33,74,74,83,80
+qualified_comparison,explicit_and_limited_inference,ALM05,Inter-episode baseline recovery,5,5,6,6,6,6
+qualified_comparison,explicit_and_limited_inference,CAR01,Palpitations or forceful heartbeat,28,27,43,43,48,47
+qualified_comparison,explicit_and_limited_inference,CAR02,Measured tachycardia,6,6,6,6,7,7
+qualified_comparison,explicit_and_limited_inference,CAR03,Measured normal or low heart rate,3,3,3,3,3,3
+qualified_comparison,explicit_and_limited_inference,CAR04,Blood-pressure abnormality,10,9,9,9,10,9
+qualified_comparison,explicit_and_limited_inference,COG01,Accelerated or overly intense thoughts,8,8,9,9,9,9
+qualified_comparison,explicit_and_limited_inference,COG02,Brain fog or cognitive slowing,51,50,115,115,147,141
+qualified_comparison,explicit_and_limited_inference,COG03,Ambiguous mental disorientation,7,6,10,10,13,11
+qualified_comparison,explicit_and_limited_inference,COG04,Altered cognitive flow or appraisal,9,8,12,12,13,12
+qualified_comparison,explicit_and_limited_inference,DIS01,Derealization,12,12,45,45,65,62
+qualified_comparison,explicit_and_limited_inference,DIS02,Depersonalization,7,7,29,29,51,50
+qualified_comparison,explicit_and_limited_inference,DIS03,Dreamlike or altered-presence experience,12,12,22,22,26,26
+qualified_comparison,explicit_and_limited_inference,DIS04,Embodiment disturbance,6,6,23,23,30,29
+qualified_comparison,explicit_and_limited_inference,FAT01,Fatigue or exhaustion,56,54,102,102,119,114
+qualified_comparison,explicit_and_limited_inference,FAT02,PEM or post-exertional worsening,21,21,33,33,38,36
+qualified_comparison,explicit_and_limited_inference,GAS01,Nausea,16,16,19,19,21,21
+qualified_comparison,explicit_and_limited_inference,GEN01,Urinary urgency or nocturia,3,3,4,4,4,4
+qualified_comparison,explicit_and_limited_inference,INT01,Involuntary internal scanning,1,1,1,1,1,1
+qualified_comparison,explicit_and_limited_inference,INT02,Deliberate body checking or monitoring,3,3,3,3,3,3
+qualified_comparison,explicit_and_limited_inference,INT03,Abnormally intense bodily presence,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,INT04,Internal vibration or buzzing,14,13,20,20,27,25
+qualified_comparison,explicit_and_limited_inference,MIS01,Palpitations or apparent tachycardia with simultaneous non-high HR,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,MIS02,Air hunger with simultaneous non-abnormal simple measure,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,MIS03,Internal severity with outward composure,1,1,1,1,1,1
+qualified_comparison,explicit_and_limited_inference,MOD01,Quiet or low-stimulation prominence,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,MOD02,Salient engagement masks symptoms,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,MOD03,External sensory input worsens symptoms,2,2,4,4,4,4
+qualified_comparison,explicit_and_limited_inference,MOD04,Postural modulation,2,2,2,2,2,2
+qualified_comparison,explicit_and_limited_inference,MOD05,Exertional worsening or PEM-like pattern,3,3,5,5,6,6
+qualified_comparison,explicit_and_limited_inference,MOD06,Meal or food modulation,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,MOD07,Stress or emotional provocation,2,2,2,2,2,2
+qualified_comparison,explicit_and_limited_inference,MOT01,Inner restlessness,8,8,17,17,24,19
+qualified_comparison,explicit_and_limited_inference,MOT02,Observable pacing or motor urge,10,10,12,12,13,13
+qualified_comparison,explicit_and_limited_inference,MOT03,Medication-timed akathisia-like syndrome,2,2,2,2,2,2
+qualified_comparison,explicit_and_limited_inference,NEU01,Head pressure,23,21,28,28,39,36
+qualified_comparison,explicit_and_limited_inference,NEU02,Head or brain burning sensation,3,3,3,3,4,4
+qualified_comparison,explicit_and_limited_inference,NEU03,"Twitching, tremor, or shaking",33,32,54,54,67,64
+qualified_comparison,explicit_and_limited_inference,NEU04,Startle sensitivity,7,7,7,7,7,7
+qualified_comparison,explicit_and_limited_inference,NEU05,Sensory sensitivity,21,21,28,28,31,29
+qualified_comparison,explicit_and_limited_inference,NEU06,"Dizziness, presyncope, or syncope",27,26,37,37,40,37
+qualified_comparison,explicit_and_limited_inference,PAI01,Diffuse bodily discomfort or pain,19,18,27,27,29,28
+qualified_comparison,explicit_and_limited_inference,PSY01,Initiating worry or rumination,8,8,10,10,10,10
+qualified_comparison,explicit_and_limited_inference,PSY02,Secondary fear or distress,34,33,51,51,60,57
+qualified_comparison,explicit_and_limited_inference,PSY03,Fear of going crazy with insight,4,4,6,6,7,7
+qualified_comparison,explicit_and_limited_inference,PSY04,Hallucination-like experience,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,PSY05,Delusional or fixed false belief,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,PSY06,Formal thought disorder or gross disorganization,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,PSY07,Loss or impairment of reality testing,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,PSY08,Mania or hypomania feature cluster,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,PSY09,Depressed mood or anhedonia,22,22,59,59,69,69
+qualified_comparison,explicit_and_limited_inference,PSY10,Suicidality or self-harm,3,3,6,6,6,6
+qualified_comparison,explicit_and_limited_inference,PSY11,Trauma-linked symptoms,2,2,2,2,4,4
+qualified_comparison,explicit_and_limited_inference,PSY12,Obsessive or compulsive checking,3,2,2,2,3,2
+qualified_comparison,explicit_and_limited_inference,PSY13,Psychiatric label or dismissal only,17,17,58,58,67,67
+qualified_comparison,explicit_and_limited_inference,RES01,Air hunger or dyspnea,23,21,33,33,39,35
+qualified_comparison,explicit_and_limited_inference,RES02,Hyperventilation or low CO2,1,1,1,1,1,1
+qualified_comparison,explicit_and_limited_inference,SLP01,Sleep initiation preserved,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,SLP02,Sleep maintenance preserved,0,0,0,0,0,0
+qualified_comparison,explicit_and_limited_inference,SLP03,Non-restorative sleep,3,3,5,5,5,5
+qualified_comparison,explicit_and_limited_inference,SLP04,Insomnia,37,35,49,49,57,53
+qualified_comparison,explicit_and_limited_inference,SLP05,Nocturnal awakenings or sleep-boundary surges,22,22,31,31,31,31
+qualified_comparison,explicit_and_limited_inference,TMP01,Present at first consciousness,6,6,9,9,9,9
+qualified_comparison,explicit_and_limited_inference,TMP02,Continuous or 24/7 baseline,21,20,34,34,40,37
+qualified_comparison,explicit_and_limited_inference,TMP03,Episodic pattern,10,10,11,11,13,13
+qualified_comparison,explicit_and_limited_inference,TMP04,Relapsing-remitting course,19,18,27,27,37,33
+qualified_comparison,explicit_and_limited_inference,TMP05,No true return to baseline,8,8,9,9,10,10
+qualified_comparison,explicit_and_limited_inference,TMP06,Onset after reported infection,17,17,22,22,23,22
+qualified_comparison,explicit_and_limited_inference,TMP07,Worsening after reinfection,8,8,8,8,8,8
+qualified_comparison,explicit_and_limited_inference,TMP08,Gradual onset,1,1,1,1,1,1
+qualified_comparison,explicit_and_limited_inference,TMP09,Slow partial improvement,19,19,44,44,51,49
+qualified_comparison,explicit_only,ALM01,Persistent internal alarm or wired state,33,33,82,82,94,88
+qualified_comparison,explicit_only,ALM02,Body-before-thought ordering,12,11,13,13,14,13
+qualified_comparison,explicit_only,ALM03,No consciously identified trigger,12,12,14,14,14,14
+qualified_comparison,explicit_only,ALM04,Discrete panic-like attacks,34,33,74,74,83,80
+qualified_comparison,explicit_only,ALM05,Inter-episode baseline recovery,5,5,6,6,6,6
+qualified_comparison,explicit_only,CAR01,Palpitations or forceful heartbeat,28,27,42,42,46,45
+qualified_comparison,explicit_only,CAR02,Measured tachycardia,6,6,6,6,7,7
+qualified_comparison,explicit_only,CAR03,Measured normal or low heart rate,3,3,3,3,3,3
+qualified_comparison,explicit_only,CAR04,Blood-pressure abnormality,10,9,9,9,10,9
+qualified_comparison,explicit_only,COG01,Accelerated or overly intense thoughts,8,8,9,9,9,9
+qualified_comparison,explicit_only,COG02,Brain fog or cognitive slowing,50,49,114,114,146,140
+qualified_comparison,explicit_only,COG03,Ambiguous mental disorientation,7,6,10,10,13,11
+qualified_comparison,explicit_only,COG04,Altered cognitive flow or appraisal,9,8,12,12,13,12
+qualified_comparison,explicit_only,DIS01,Derealization,12,12,45,45,65,62
+qualified_comparison,explicit_only,DIS02,Depersonalization,7,7,29,29,51,50
+qualified_comparison,explicit_only,DIS03,Dreamlike or altered-presence experience,11,11,21,21,25,25
+qualified_comparison,explicit_only,DIS04,Embodiment disturbance,6,6,23,23,30,29
+qualified_comparison,explicit_only,FAT01,Fatigue or exhaustion,56,54,101,101,118,113
+qualified_comparison,explicit_only,FAT02,PEM or post-exertional worsening,20,20,32,32,37,35
+qualified_comparison,explicit_only,GAS01,Nausea,16,16,18,18,20,20
+qualified_comparison,explicit_only,GEN01,Urinary urgency or nocturia,3,3,4,4,4,4
+qualified_comparison,explicit_only,INT01,Involuntary internal scanning,1,1,1,1,1,1
+qualified_comparison,explicit_only,INT02,Deliberate body checking or monitoring,3,3,3,3,3,3
+qualified_comparison,explicit_only,INT03,Abnormally intense bodily presence,0,0,0,0,0,0
+qualified_comparison,explicit_only,INT04,Internal vibration or buzzing,14,13,20,20,27,25
+qualified_comparison,explicit_only,MIS01,Palpitations or apparent tachycardia with simultaneous non-high HR,0,0,0,0,0,0
+qualified_comparison,explicit_only,MIS02,Air hunger with simultaneous non-abnormal simple measure,0,0,0,0,0,0
+qualified_comparison,explicit_only,MIS03,Internal severity with outward composure,1,1,1,1,1,1
+qualified_comparison,explicit_only,MOD01,Quiet or low-stimulation prominence,0,0,0,0,0,0
+qualified_comparison,explicit_only,MOD02,Salient engagement masks symptoms,0,0,0,0,0,0
+qualified_comparison,explicit_only,MOD03,External sensory input worsens symptoms,2,2,4,4,4,4
+qualified_comparison,explicit_only,MOD04,Postural modulation,2,2,2,2,2,2
+qualified_comparison,explicit_only,MOD05,Exertional worsening or PEM-like pattern,3,3,5,5,6,6
+qualified_comparison,explicit_only,MOD06,Meal or food modulation,0,0,0,0,0,0
+qualified_comparison,explicit_only,MOD07,Stress or emotional provocation,2,2,2,2,2,2
+qualified_comparison,explicit_only,MOT01,Inner restlessness,8,8,16,16,23,18
+qualified_comparison,explicit_only,MOT02,Observable pacing or motor urge,10,10,12,12,13,13
+qualified_comparison,explicit_only,MOT03,Medication-timed akathisia-like syndrome,2,2,2,2,2,2
+qualified_comparison,explicit_only,NEU01,Head pressure,23,21,27,27,38,35
+qualified_comparison,explicit_only,NEU02,Head or brain burning sensation,3,3,3,3,4,4
+qualified_comparison,explicit_only,NEU03,"Twitching, tremor, or shaking",33,32,54,54,67,64
+qualified_comparison,explicit_only,NEU04,Startle sensitivity,7,7,7,7,7,7
+qualified_comparison,explicit_only,NEU05,Sensory sensitivity,19,19,26,26,29,27
+qualified_comparison,explicit_only,NEU06,"Dizziness, presyncope, or syncope",27,26,37,37,40,37
+qualified_comparison,explicit_only,PAI01,Diffuse bodily discomfort or pain,19,18,27,27,29,28
+qualified_comparison,explicit_only,PSY01,Initiating worry or rumination,8,8,10,10,10,10
+qualified_comparison,explicit_only,PSY02,Secondary fear or distress,34,33,50,50,58,55
+qualified_comparison,explicit_only,PSY03,Fear of going crazy with insight,4,4,6,6,7,7
+qualified_comparison,explicit_only,PSY04,Hallucination-like experience,0,0,0,0,0,0
+qualified_comparison,explicit_only,PSY05,Delusional or fixed false belief,0,0,0,0,0,0
+qualified_comparison,explicit_only,PSY06,Formal thought disorder or gross disorganization,0,0,0,0,0,0
+qualified_comparison,explicit_only,PSY07,Loss or impairment of reality testing,0,0,0,0,0,0
+qualified_comparison,explicit_only,PSY08,Mania or hypomania feature cluster,0,0,0,0,0,0
+qualified_comparison,explicit_only,PSY09,Depressed mood or anhedonia,22,22,59,59,69,69
+qualified_comparison,explicit_only,PSY10,Suicidality or self-harm,3,3,6,6,6,6
+qualified_comparison,explicit_only,PSY11,Trauma-linked symptoms,2,2,2,2,4,4
+qualified_comparison,explicit_only,PSY12,Obsessive or compulsive checking,3,2,2,2,3,2
+qualified_comparison,explicit_only,PSY13,Psychiatric label or dismissal only,17,17,58,58,67,67
+qualified_comparison,explicit_only,RES01,Air hunger or dyspnea,23,21,33,33,39,35
+qualified_comparison,explicit_only,RES02,Hyperventilation or low CO2,1,1,1,1,1,1
+qualified_comparison,explicit_only,SLP01,Sleep initiation preserved,0,0,0,0,0,0
+qualified_comparison,explicit_only,SLP02,Sleep maintenance preserved,0,0,0,0,0,0
+qualified_comparison,explicit_only,SLP03,Non-restorative sleep,3,3,5,5,5,5
+qualified_comparison,explicit_only,SLP04,Insomnia,37,35,49,49,57,53
+qualified_comparison,explicit_only,SLP05,Nocturnal awakenings or sleep-boundary surges,22,22,31,31,31,31
+qualified_comparison,explicit_only,TMP01,Present at first consciousness,6,6,9,9,9,9
+qualified_comparison,explicit_only,TMP02,Continuous or 24/7 baseline,21,20,34,34,40,37
+qualified_comparison,explicit_only,TMP03,Episodic pattern,10,10,11,11,13,13
+qualified_comparison,explicit_only,TMP04,Relapsing-remitting course,19,18,27,27,37,33
+qualified_comparison,explicit_only,TMP05,No true return to baseline,8,8,9,9,10,10
+qualified_comparison,explicit_only,TMP06,Onset after reported infection,17,17,22,22,23,22
+qualified_comparison,explicit_only,TMP07,Worsening after reinfection,8,8,8,8,8,8
+qualified_comparison,explicit_only,TMP08,Gradual onset,1,1,1,1,1,1
+qualified_comparison,explicit_only,TMP09,Slow partial improvement,19,19,44,44,51,49
+non_excluded,explicit_and_limited_inference,ALM01,Persistent internal alarm or wired state,105,99,271,271,316,291
+non_excluded,explicit_and_limited_inference,ALM02,Body-before-thought ordering,35,29,37,37,47,38
+non_excluded,explicit_and_limited_inference,ALM03,No consciously identified trigger,32,29,37,37,41,37
+non_excluded,explicit_and_limited_inference,ALM04,Discrete panic-like attacks,83,77,152,152,177,163
+non_excluded,explicit_and_limited_inference,ALM05,Inter-episode baseline recovery,7,7,8,8,8,8
+non_excluded,explicit_and_limited_inference,CAR01,Palpitations or forceful heartbeat,83,77,139,138,172,157
+non_excluded,explicit_and_limited_inference,CAR02,Measured tachycardia,26,26,31,31,41,40
+non_excluded,explicit_and_limited_inference,CAR03,Measured normal or low heart rate,14,14,16,16,17,17
+non_excluded,explicit_and_limited_inference,CAR04,Blood-pressure abnormality,32,31,43,43,47,46
+non_excluded,explicit_and_limited_inference,COG01,Accelerated or overly intense thoughts,19,18,19,19,20,19
+non_excluded,explicit_and_limited_inference,COG02,Brain fog or cognitive slowing,112,105,229,229,294,275
+non_excluded,explicit_and_limited_inference,COG03,Ambiguous mental disorientation,17,15,20,20,26,22
+non_excluded,explicit_and_limited_inference,COG04,Altered cognitive flow or appraisal,11,11,17,17,18,17
+non_excluded,explicit_and_limited_inference,DIS01,Derealization,31,31,94,94,123,118
+non_excluded,explicit_and_limited_inference,DIS02,Depersonalization,22,22,55,55,82,80
+non_excluded,explicit_and_limited_inference,DIS03,Dreamlike or altered-presence experience,42,40,80,80,100,87
+non_excluded,explicit_and_limited_inference,DIS04,Embodiment disturbance,12,11,33,33,42,40
+non_excluded,explicit_and_limited_inference,FAT01,Fatigue or exhaustion,120,117,213,213,250,235
+non_excluded,explicit_and_limited_inference,FAT02,PEM or post-exertional worsening,53,51,74,74,84,80
+non_excluded,explicit_and_limited_inference,GAS01,Nausea,33,31,35,35,43,40
+non_excluded,explicit_and_limited_inference,GEN01,Urinary urgency or nocturia,9,9,11,11,11,11
+non_excluded,explicit_and_limited_inference,INT01,Involuntary internal scanning,1,1,1,1,1,1
+non_excluded,explicit_and_limited_inference,INT02,Deliberate body checking or monitoring,10,10,10,10,10,10
+non_excluded,explicit_and_limited_inference,INT03,Abnormally intense bodily presence,1,0,0,0,1,0
+non_excluded,explicit_and_limited_inference,INT04,Internal vibration or buzzing,32,31,52,52,64,60
+non_excluded,explicit_and_limited_inference,MIS01,Palpitations or apparent tachycardia with simultaneous non-high HR,1,1,3,3,3,3
+non_excluded,explicit_and_limited_inference,MIS02,Air hunger with simultaneous non-abnormal simple measure,1,1,1,1,1,1
+non_excluded,explicit_and_limited_inference,MIS03,Internal severity with outward composure,5,5,6,6,6,6
+non_excluded,explicit_and_limited_inference,MOD01,Quiet or low-stimulation prominence,0,0,0,0,0,0
+non_excluded,explicit_and_limited_inference,MOD02,Salient engagement masks symptoms,0,0,0,0,0,0
+non_excluded,explicit_and_limited_inference,MOD03,External sensory input worsens symptoms,6,6,8,8,8,8
+non_excluded,explicit_and_limited_inference,MOD04,Postural modulation,4,4,5,5,5,5
+non_excluded,explicit_and_limited_inference,MOD05,Exertional worsening or PEM-like pattern,11,11,15,15,17,16
+non_excluded,explicit_and_limited_inference,MOD06,Meal or food modulation,6,6,6,6,6,6
+non_excluded,explicit_and_limited_inference,MOD07,Stress or emotional provocation,6,6,8,8,9,9
+non_excluded,explicit_and_limited_inference,MOT01,Inner restlessness,18,17,30,30,39,32
+non_excluded,explicit_and_limited_inference,MOT02,Observable pacing or motor urge,23,21,26,26,29,27
+non_excluded,explicit_and_limited_inference,MOT03,Medication-timed akathisia-like syndrome,4,4,8,8,9,8
+non_excluded,explicit_and_limited_inference,NEU01,Head pressure,37,35,48,48,63,60
+non_excluded,explicit_and_limited_inference,NEU02,Head or brain burning sensation,8,8,8,8,9,9
+non_excluded,explicit_and_limited_inference,NEU03,"Twitching, tremor, or shaking",78,74,129,129,159,151
+non_excluded,explicit_and_limited_inference,NEU04,Startle sensitivity,12,11,12,12,13,12
+non_excluded,explicit_and_limited_inference,NEU05,Sensory sensitivity,50,48,72,72,79,74
+non_excluded,explicit_and_limited_inference,NEU06,"Dizziness, presyncope, or syncope",77,75,123,123,157,148
+non_excluded,explicit_and_limited_inference,PAI01,Diffuse bodily discomfort or pain,37,36,55,55,62,60
+non_excluded,explicit_and_limited_inference,PSY01,Initiating worry or rumination,11,11,13,13,13,13
+non_excluded,explicit_and_limited_inference,PSY02,Secondary fear or distress,94,91,151,151,189,176
+non_excluded,explicit_and_limited_inference,PSY03,Fear of going crazy with insight,18,18,26,26,33,33
+non_excluded,explicit_and_limited_inference,PSY04,Hallucination-like experience,2,2,2,2,2,2
+non_excluded,explicit_and_limited_inference,PSY05,Delusional or fixed false belief,1,1,1,1,1,1
+non_excluded,explicit_and_limited_inference,PSY06,Formal thought disorder or gross disorganization,3,3,3,3,3,3
+non_excluded,explicit_and_limited_inference,PSY07,Loss or impairment of reality testing,2,2,2,2,2,2
+non_excluded,explicit_and_limited_inference,PSY08,Mania or hypomania feature cluster,0,0,0,0,0,0
+non_excluded,explicit_and_limited_inference,PSY09,Depressed mood or anhedonia,69,67,129,129,157,150
+non_excluded,explicit_and_limited_inference,PSY10,Suicidality or self-harm,39,36,51,51,60,55
+non_excluded,explicit_and_limited_inference,PSY11,Trauma-linked symptoms,8,8,8,8,11,11
+non_excluded,explicit_and_limited_inference,PSY12,Obsessive or compulsive checking,13,9,9,9,13,9
+non_excluded,explicit_and_limited_inference,PSY13,Psychiatric label or dismissal only,78,71,214,214,270,248
+non_excluded,explicit_and_limited_inference,RES01,Air hunger or dyspnea,56,52,82,82,97,89
+non_excluded,explicit_and_limited_inference,RES02,Hyperventilation or low CO2,2,2,2,2,2,2
+non_excluded,explicit_and_limited_inference,SLP01,Sleep initiation preserved,1,1,1,1,1,1
+non_excluded,explicit_and_limited_inference,SLP02,Sleep maintenance preserved,2,2,2,2,2,2
+non_excluded,explicit_and_limited_inference,SLP03,Non-restorative sleep,13,12,18,18,19,18
+non_excluded,explicit_and_limited_inference,SLP04,Insomnia,91,86,144,144,168,158
+non_excluded,explicit_and_limited_inference,SLP05,Nocturnal awakenings or sleep-boundary surges,46,46,66,66,69,69
+non_excluded,explicit_and_limited_inference,TMP01,Present at first consciousness,16,15,19,19,21,20
+non_excluded,explicit_and_limited_inference,TMP02,Continuous or 24/7 baseline,60,57,98,98,115,107
+non_excluded,explicit_and_limited_inference,TMP03,Episodic pattern,26,26,29,29,31,31
+non_excluded,explicit_and_limited_inference,TMP04,Relapsing-remitting course,32,31,45,45,55,51
+non_excluded,explicit_and_limited_inference,TMP05,No true return to baseline,13,13,14,14,15,15
+non_excluded,explicit_and_limited_inference,TMP06,Onset after reported infection,31,31,37,37,40,37
+non_excluded,explicit_and_limited_inference,TMP07,Worsening after reinfection,15,14,17,17,18,17
+non_excluded,explicit_and_limited_inference,TMP08,Gradual onset,3,3,3,3,3,3
+non_excluded,explicit_and_limited_inference,TMP09,Slow partial improvement,39,39,76,76,86,83
+non_excluded,explicit_only,ALM01,Persistent internal alarm or wired state,98,92,256,256,299,275
+non_excluded,explicit_only,ALM02,Body-before-thought ordering,35,29,37,37,47,38
+non_excluded,explicit_only,ALM03,No consciously identified trigger,30,27,35,35,39,35
+non_excluded,explicit_only,ALM04,Discrete panic-like attacks,83,77,151,151,176,162
+non_excluded,explicit_only,ALM05,Inter-episode baseline recovery,7,7,8,8,8,8
+non_excluded,explicit_only,CAR01,Palpitations or forceful heartbeat,78,73,132,132,161,147
+non_excluded,explicit_only,CAR02,Measured tachycardia,25,25,30,30,40,39
+non_excluded,explicit_only,CAR03,Measured normal or low heart rate,14,14,16,16,17,17
+non_excluded,explicit_only,CAR04,Blood-pressure abnormality,32,31,43,43,47,46
+non_excluded,explicit_only,COG01,Accelerated or overly intense thoughts,18,17,18,18,19,18
+non_excluded,explicit_only,COG02,Brain fog or cognitive slowing,109,102,225,225,288,270
+non_excluded,explicit_only,COG03,Ambiguous mental disorientation,17,15,20,20,26,22
+non_excluded,explicit_only,COG04,Altered cognitive flow or appraisal,11,10,15,15,16,15
+non_excluded,explicit_only,DIS01,Derealization,31,31,93,93,122,117
+non_excluded,explicit_only,DIS02,Depersonalization,22,22,53,53,80,78
+non_excluded,explicit_only,DIS03,Dreamlike or altered-presence experience,35,33,69,69,86,75
+non_excluded,explicit_only,DIS04,Embodiment disturbance,11,10,32,32,41,39
+non_excluded,explicit_only,FAT01,Fatigue or exhaustion,119,116,209,209,244,231
+non_excluded,explicit_only,FAT02,PEM or post-exertional worsening,51,49,72,72,81,77
+non_excluded,explicit_only,GAS01,Nausea,32,30,33,33,41,38
+non_excluded,explicit_only,GEN01,Urinary urgency or nocturia,8,8,10,10,10,10
+non_excluded,explicit_only,INT01,Involuntary internal scanning,1,1,1,1,1,1
+non_excluded,explicit_only,INT02,Deliberate body checking or monitoring,10,10,10,10,10,10
+non_excluded,explicit_only,INT03,Abnormally intense bodily presence,1,0,0,0,1,0
+non_excluded,explicit_only,INT04,Internal vibration or buzzing,30,29,50,50,62,58
+non_excluded,explicit_only,MIS01,Palpitations or apparent tachycardia with simultaneous non-high HR,1,1,3,3,3,3
+non_excluded,explicit_only,MIS02,Air hunger with simultaneous non-abnormal simple measure,1,1,1,1,1,1
+non_excluded,explicit_only,MIS03,Internal severity with outward composure,3,3,4,4,4,4
+non_excluded,explicit_only,MOD01,Quiet or low-stimulation prominence,0,0,0,0,0,0
+non_excluded,explicit_only,MOD02,Salient engagement masks symptoms,0,0,0,0,0,0
+non_excluded,explicit_only,MOD03,External sensory input worsens symptoms,5,5,7,7,7,7
+non_excluded,explicit_only,MOD04,Postural modulation,3,3,3,3,3,3
+non_excluded,explicit_only,MOD05,Exertional worsening or PEM-like pattern,9,9,13,13,15,14
+non_excluded,explicit_only,MOD06,Meal or food modulation,6,6,6,6,6,6
+non_excluded,explicit_only,MOD07,Stress or emotional provocation,5,5,7,7,8,8
+non_excluded,explicit_only,MOT01,Inner restlessness,18,16,27,27,36,29
+non_excluded,explicit_only,MOT02,Observable pacing or motor urge,22,21,26,26,28,27
+non_excluded,explicit_only,MOT03,Medication-timed akathisia-like syndrome,4,4,8,8,9,8
+non_excluded,explicit_only,NEU01,Head pressure,35,33,45,45,60,57
+non_excluded,explicit_only,NEU02,Head or brain burning sensation,8,8,8,8,9,9
+non_excluded,explicit_only,NEU03,"Twitching, tremor, or shaking",78,74,129,129,159,151
+non_excluded,explicit_only,NEU04,Startle sensitivity,12,11,11,11,12,11
+non_excluded,explicit_only,NEU05,Sensory sensitivity,47,45,68,68,75,70
+non_excluded,explicit_only,NEU06,"Dizziness, presyncope, or syncope",76,74,122,122,156,147
+non_excluded,explicit_only,PAI01,Diffuse bodily discomfort or pain,37,36,55,55,62,60
+non_excluded,explicit_only,PSY01,Initiating worry or rumination,11,11,13,13,13,13
+non_excluded,explicit_only,PSY02,Secondary fear or distress,93,90,146,146,180,168
+non_excluded,explicit_only,PSY03,Fear of going crazy with insight,18,18,26,26,33,33
+non_excluded,explicit_only,PSY04,Hallucination-like experience,2,2,2,2,2,2
+non_excluded,explicit_only,PSY05,Delusional or fixed false belief,1,1,1,1,1,1
+non_excluded,explicit_only,PSY06,Formal thought disorder or gross disorganization,3,3,3,3,3,3
+non_excluded,explicit_only,PSY07,Loss or impairment of reality testing,2,2,2,2,2,2
+non_excluded,explicit_only,PSY08,Mania or hypomania feature cluster,0,0,0,0,0,0
+non_excluded,explicit_only,PSY09,Depressed mood or anhedonia,68,66,127,127,154,148
+non_excluded,explicit_only,PSY10,Suicidality or self-harm,36,33,46,46,55,50
+non_excluded,explicit_only,PSY11,Trauma-linked symptoms,8,8,8,8,11,11
+non_excluded,explicit_only,PSY12,Obsessive or compulsive checking,13,9,9,9,13,9
+non_excluded,explicit_only,PSY13,Psychiatric label or dismissal only,78,71,214,214,270,248
+non_excluded,explicit_only,RES01,Air hunger or dyspnea,55,51,81,81,96,88
+non_excluded,explicit_only,RES02,Hyperventilation or low CO2,2,2,2,2,2,2
+non_excluded,explicit_only,SLP01,Sleep initiation preserved,1,1,1,1,1,1
+non_excluded,explicit_only,SLP02,Sleep maintenance preserved,2,2,2,2,2,2
+non_excluded,explicit_only,SLP03,Non-restorative sleep,12,11,17,17,18,17
+non_excluded,explicit_only,SLP04,Insomnia,89,85,142,142,165,156
+non_excluded,explicit_only,SLP05,Nocturnal awakenings or sleep-boundary surges,45,45,64,64,67,67
+non_excluded,explicit_only,TMP01,Present at first consciousness,16,15,19,19,21,20
+non_excluded,explicit_only,TMP02,Continuous or 24/7 baseline,60,57,97,97,114,106
+non_excluded,explicit_only,TMP03,Episodic pattern,26,26,29,29,31,31
+non_excluded,explicit_only,TMP04,Relapsing-remitting course,32,31,45,45,55,51
+non_excluded,explicit_only,TMP05,No true return to baseline,13,13,14,14,15,15
+non_excluded,explicit_only,TMP06,Onset after reported infection,28,28,34,34,36,34
+non_excluded,explicit_only,TMP07,Worsening after reinfection,15,14,17,17,18,17
+non_excluded,explicit_only,TMP08,Gradual onset,2,2,2,2,2,2
+non_excluded,explicit_only,TMP09,Slow partial improvement,39,39,76,76,86,83

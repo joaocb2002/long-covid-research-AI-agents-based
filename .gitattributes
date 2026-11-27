@@ -1,0 +1,7 @@
+*.pdf binary
+*.csv text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.html text eol=lf
+/Provenance/original_supplied_links.txt -text

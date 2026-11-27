@@ -1,0 +1,215 @@
+[
+  {
+    "group": "pregabalin",
+    "label": "Pregabalin",
+    "aliases": [
+      "lyrica",
+      "pregabalin"
+    ]
+  },
+  {
+    "group": "paroxetine",
+    "label": "Paroxetine",
+    "aliases": [
+      "paroxetine",
+      "paxil",
+      "seroxat"
+    ]
+  },
+  {
+    "group": "clonazepam",
+    "label": "Clonazepam",
+    "aliases": [
+      "clonazepam",
+      "klonopin",
+      "rivotril"
+    ]
+  },
+  {
+    "group": "diazepam",
+    "label": "Diazepam",
+    "aliases": [
+      "diazepam",
+      "valium"
+    ]
+  },
+  {
+    "group": "propranolol",
+    "label": "Propranolol",
+    "aliases": [
+      "propranolol"
+    ]
+  },
+  {
+    "group": "clonidine",
+    "label": "Clonidine",
+    "aliases": [
+      "clonidine"
+    ]
+  },
+  {
+    "group": "buspirone",
+    "label": "Buspirone",
+    "aliases": [
+      "buspar",
+      "buspirone"
+    ]
+  },
+  {
+    "group": "naltrexone",
+    "label": "Naltrexone",
+    "aliases": [
+      "ldn",
+      "naltrexone"
+    ]
+  },
+  {
+    "group": "guanfacine",
+    "label": "Guanfacine",
+    "aliases": [
+      "guanfacine"
+    ]
+  },
+  {
+    "group": "prazosin",
+    "label": "Prazosin",
+    "aliases": [
+      "prazosin"
+    ]
+  },
+  {
+    "group": "valproate",
+    "label": "Valproate",
+    "aliases": [
+      "depakote",
+      "divalproex",
+      "valproate",
+      "valproic acid"
+    ]
+  },
+  {
+    "group": "cannabinoid_composition",
+    "label": "Cannabinoids by names/components",
+    "aliases": [
+      "cannabidiol",
+      "cannabinoid",
+      "cannabis",
+      "cbd",
+      "marijuana",
+      "tetrahydrocannabinol",
+      "thc"
+    ]
+  },
+  {
+    "group": "ivig",
+    "label": "Intravenous immunoglobulin",
+    "aliases": [
+      "intravenous immunoglobulin",
+      "ivig"
+    ]
+  },
+  {
+    "group": "dexamethasone",
+    "label": "Dexamethasone",
+    "aliases": [
+      "dexamethasone"
+    ]
+  },
+  {
+    "group": "rituximab",
+    "label": "Rituximab",
+    "aliases": [
+      "rituxan",
+      "rituximab"
+    ]
+  },
+  {
+    "group": "plasma_exchange",
+    "label": "Plasma exchange",
+    "aliases": [
+      "apheresis",
+      "plasma exchange",
+      "plasmapheresis",
+      "plex"
+    ]
+  },
+  {
+    "group": "stellate_ganglion_block",
+    "label": "Stellate ganglion block",
+    "aliases": [
+      "sgb",
+      "stellate block",
+      "stellate ganglion block"
+    ]
+  },
+  {
+    "group": "vagus_directed_stimulation",
+    "label": "Vagus-directed stimulation",
+    "aliases": [
+      "auricular stimulation",
+      "t vns",
+      "tvns",
+      "vagal stimulation",
+      "vagus nerve stimulation"
+    ]
+  },
+  {
+    "group": "meditation_mindfulness",
+    "label": "Meditation / mindfulness",
+    "aliases": [
+      "meditation",
+      "mindfulness"
+    ]
+  },
+  {
+    "group": "psychology",
+    "label": "Psychology",
+    "aliases": [
+      "psychology",
+      "psychotherapy"
+    ]
+  },
+  {
+    "group": "creatine",
+    "label": "Creatine",
+    "aliases": [
+      "creatine"
+    ]
+  },
+  {
+    "group": "caffeine",
+    "label": "Caffeine",
+    "aliases": [
+      "caffeine"
+    ]
+  },
+  {
+    "group": "pantoprazole",
+    "label": "Pantoprazole",
+    "aliases": [
+      "pantoprazole"
+    ]
+  },
+  {
+    "group": "ketamine",
+    "label": "Ketamine",
+    "aliases": [
+      "ketamine"
+    ]
+  },
+  {
+    "group": "duloxetine",
+    "label": "Duloxetine",
+    "aliases": [
+      "cymbalta",
+      "duloxetine"
+    ]
+  },
+  {
+    "group": "amitriptyline",
+    "label": "Amitriptyline",
+    "aliases": [
+      "amitriptyline"
+    ]
+  }
+]

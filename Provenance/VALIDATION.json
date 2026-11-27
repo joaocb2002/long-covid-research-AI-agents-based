@@ -33,7 +33,7 @@
     {
       "path": "Reading/Data_Collection_and_Analysis.pdf",
       "pages": 3,
-      "sha256": "4e2cfe9a71c9c7f9a965a019788021298c877638b14315fba009c690905b17e0",
+      "sha256": "38dffaf614b0386ac8433c8e6cc5e5e9d09d49e4a0886ab0e7228a4a37beaeb6",
       "unchanged_copy": false
     },
     {
@@ -90,5 +90,5 @@
   "privacy_or_ethics_approval_claimed": false,
   "LLM_reexecution_claimed": false,
   "size_cap_bytes_unpacked": 1000000000,
-  "visual_QA": "All eight edited reading pages were rendered and visually inspected; no clipping, overlap or stale date/version labels. Clinical PDF remains the unchanged user-supplied file."
+  "visual_QA": "All three revised methods pages were rendered and visually inspected; no clipping or overlap. The other five reading pages are unchanged and retain their earlier visual QA. Clinical PDF remains unchanged."
 }

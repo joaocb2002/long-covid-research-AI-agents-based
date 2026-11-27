@@ -2,6 +2,8 @@
 
 ## What the agents did
 
+An AI agent is a software assistant given a task and instructions. It can read material, use tools and save results, rather than only answer a question. Here, separate agent tasks extracted information, compared outputs and checked files. Agents are not people, and different tasks can use the same AI model. This plain-language explanation follows the [official OpenAI glossary](https://learn.chatgpt.com/docs/glossary).
+
 This project was mainly executed by AI agents, with a patient directing the objective and supplying the initial links and clinical information. Agents searched and collected material, organised records, extracted coded statements, reconciled disagreements, wrote checking scripts and prepared documents. Separate tasks were used for extraction, reconciliation, audits and corrections. Role separation is not independent human validation.
 
 Stage 4 used separate Pass A and blind Pass B extraction, followed by reconciliation and audits. Corrections and rejected outputs were retained in the historical archive. High agent activity or repeated technical checks do not themselves demonstrate clinical accuracy.
@@ -28,7 +30,13 @@ There is no complete billing/token export or measured total GPU time. Earlier to
 
 ## Effort versus findings
 
+Stage 4 dominated the processing effort and storage through separate extractions, reconciliation, corrections and repeated audits. Preserved working copies account for much of the archive's size; they are not extra testimonies. A precise stage-by-stage share of total time and storage is unavailable.
+
 The substantial processing effort produced a concise set of descriptive results from a small selected online corpus. The number of coded records is larger than the number of source messages or contributors because one message can yield several statements. Revisions, copied dependencies and repeated audits greatly increased storage without creating additional independent evidence.
+
+The full pipeline archive is kept on an external HDD (hard disk drive), the large-capacity storage disk. NVMe refers here to the computer's fast internal solid-state storage used for current work. After verified archiving, bulky intermediate copies were removed from the internal drive; working essentials were retained. This repository leaves out most of the historical archive, but those omitted materials remain preserved on the HDD. No archive deletion is part of this documentation update.
+
+For historical context, a saved storage snapshot was approximately 66 GB internally and 632 GB on the external disk; the full main analytical table was about 36 MB. These are earlier measurements, not current sizes or measurements of this compact repository.
 
 Broad symptom reports are more numerous than closely matching same-account combinations. For example, the readable results contain four account reports with the three selected alarm-related features; these are not four clinically confirmed matches to the complete case. There is no comparison showing that the extra agent work improved validity, speed or cost-effectiveness over a simpler workflow.
 

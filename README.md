@@ -4,6 +4,8 @@ This project collected and organised online illness accounts with features overl
 
 **Most of the collection, extraction, reconciliation, and technical verification was performed by AI agents** under the direction of the patient, a Research Scholar at the Institute for Systems and Robotics (ISR) and a PhD candidate in Artificial Intelligence and Robotics at Instituto Superior Técnico, University of Lisbon. The patient selected the initial links and supplied clinical information. Doctors remain responsible for clinical interpretation, validation and writing.
 
+An **AI agent** is a software assistant given a task and instructions. It can read material, use tools and save results, rather than only answer questions. Here, separate agent tasks extracted information, compared outputs and checked files. Agents are not people; different tasks can use the same AI model.
+
 ## Start with these documents
 
 1. [Study overview](Reading/Study_Overview.pdf): how to understand the terms and counts.
@@ -55,5 +57,13 @@ The project concerns **the same patient and core clinical presentation throughou
 ## Where to find things
 
 `Sources/` contains the initial and complete URL catalogues in CSV and JSON. `Data/` contains the labelled details, category definitions and results. `Methods/` explains the process and AI limitations. `Reproduce/` contains the small recount script. `Provenance/` records origins and integrity checks.
+
+### Full archive, working files and shared repository
+
+The full pipeline archive is kept on an **external HDD (hard disk drive)**: a large-capacity disk containing the collected sources, intermediate data, scripts, rejected attempts, checks and final outputs.
+
+**NVMe** refers here to the computer's fast internal solid-state drive, used for current work. After verified archiving, bulky intermediate copies were removed from that drive; working essentials were kept. This shared repository contains a much smaller selection: reading documents, selected structured data, methods and recounting tools. Material omitted here remains in the HDD archive; omission is not deletion.
+
+**Stage 4 dominated the processing effort and storage**, because separate extractions, corrections and repeated checks saved many working copies. These are not additional testimonies. The saved records do not establish an exact percentage of total time or storage.
 
 This is a compact release, **below 1 GB unpacked**. It does not contain the much larger historical processing archive. The clinical PDF identifies the project owner and contains health information, included at his explicit request. Source URLs are traceable links, not anonymous data. See [reuse and data boundaries](REUSE.md).

@@ -142,8 +142,8 @@
     {
       "path": "Methods/AI_Methods.md",
       "purpose": "Processing, AI methods or fixed counting definitions",
-      "bytes": 4390,
-      "sha256": "b449340d74dd6442fce4d1034d3165d648e2c0aeafff800649553657218e93fd",
+      "bytes": 5871,
+      "sha256": "06b4816e6dfc0da44ba7602ec59243ed25cd49a259d25cb11e36808ce211654c",
       "status": "included"
     },
     {
@@ -177,15 +177,15 @@
     {
       "path": "Provenance/README.md",
       "purpose": "Origin, transformation or integrity record",
-      "bytes": 2440,
-      "sha256": "31190df445c3f7fc9a47a563cb6fe8e2b9e7fa027a95c05478f25d174b2f5983",
+      "bytes": 2506,
+      "sha256": "edb149e50b847ada62d25ccad0fdb70aa64c57f6632dc73485bf235003100d7d",
       "status": "included"
     },
     {
       "path": "Provenance/VALIDATION.json",
       "purpose": "Bounded packaging and independent recount checks",
-      "bytes": 3439,
-      "sha256": "455fe9adfb1cc638efec48dd0d8d15497a97ab50a4ccf25731763f683aa8c219",
+      "bytes": 3469,
+      "sha256": "e3213bd2b01bd922a399ddfd5762eb88b7689d8cfe4c02efe9d03db26d6f204c",
       "status": "included"
     },
     {
@@ -219,8 +219,8 @@
     {
       "path": "Provenance/reading_document_updates.json",
       "purpose": "Origin, transformation or integrity record",
-      "bytes": 3329,
-      "sha256": "fbd7f755c858320a95d1e6d950ae21595777e42e443f6150ddc5ad88aea5a9b1",
+      "bytes": 7346,
+      "sha256": "327fbbf3c588d85759bf867d0cc032e7ed7b01b4f04458cfd283125fd72a7f6d",
       "status": "included"
     },
     {
@@ -240,8 +240,8 @@
     {
       "path": "README.md",
       "purpose": "Project scope, reading order, stages and limits",
-      "bytes": 6139,
-      "sha256": "6c45337f8633f5901879254efeb8a5c43be46450724b2c3e30d224a290e50a65",
+      "bytes": 7392,
+      "sha256": "9b567ce114e4a2c68c159ffa7614aeddeb08474c75d8359903a04fa6428d0b89",
       "status": "included"
     },
     {
@@ -254,8 +254,8 @@
     {
       "path": "Reading/Data_Collection_and_Analysis.pdf",
       "purpose": "Edited human-readable document; original numerical results preserved",
-      "bytes": 73765,
-      "sha256": "4e2cfe9a71c9c7f9a965a019788021298c877638b14315fba009c690905b17e0",
+      "bytes": 74064,
+      "sha256": "38dffaf614b0386ac8433c8e6cc5e5e9d09d49e4a0886ab0e7228a4a37beaeb6",
       "status": "included"
     },
     {
@@ -296,8 +296,8 @@
     {
       "path": "START_HERE.html",
       "purpose": "GitHub Pages and offline human-readable introduction",
-      "bytes": 6735,
-      "sha256": "fa8eb85c133ffeded8817d960948576329435799685b6d9fc137943c25e44d79",
+      "bytes": 7963,
+      "sha256": "21831ebe65a552f3be98d3636a8f895130db6585211abed63d37f235038ec585",
       "status": "included"
     },
     {

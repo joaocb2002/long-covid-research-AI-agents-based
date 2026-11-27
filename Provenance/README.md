@@ -7,7 +7,7 @@
 - `original_supplied_links.txt`: the unmodified original link list. One repeated entry is collapsed in the professional 159-post catalogue.
 - `public_projection.json`: which original columns were retained, renamed or omitted. The original 14,961 rows and classifications are preserved; sensitive/free-text fields are not redistributed.
 - `clinical_reference_roles.json`: identifies the written clinical descriptions used at different steps. They concern the same patient and core clinical case; documentation was expanded and clarified over time.
-- `reading_document_updates.json`: records the editorial changes to the three reading PDFs, their old and new hashes, and the checks that their numerical results were preserved.
+- `reading_document_updates.json`: records editorial changes, old and new PDF hashes, and checks that numerical results were preserved. Later clarifications are in `subsequent_updates`; `current_reading_documents` identifies the current files.
 - `release_metadata.json`: scope, counts, package date and the unpacked-size limit.
 - `VALIDATION.json`: the bounded packaging checks and independent recount result. A technical PASS is not medical validation or ethics approval.
 

@@ -76,5 +76,98 @@
   "results_PDF_numeric_tokens_equal_page_by_page": true,
   "all_reading_pages_visually_inspected": 8,
   "authoring_script_archive_relative_path": "work/publication_planning/editorial_2026-11-27_readability/build_reading_documents.py",
-  "authoring_script_sha256": "a8c68ef3c02c74ad1eb8e71a3c033dadc0655eb4ddeef50ac18624c43d1c57b6"
+  "authoring_script_sha256": "a8c68ef3c02c74ad1eb8e71a3c033dadc0655eb4ddeef50ac18624c43d1c57b6",
+  "subsequent_updates": [
+    {
+      "id": "storage_and_agents_explanation",
+      "scope": "Storage and AI terminology clarification only; no data changes or archive deletion",
+      "date": "2026-11-27",
+      "baseline_commit": "beea5e0fc2679cd8992c86b60e8d6a64c92c8de5",
+      "changes": [
+        "Explain external HDD and internal NVMe storage in ordinary language",
+        "Distinguish full pipeline archive, retained working files and compact public repository",
+        "Explain that omitted intermediate files remain preserved on HDD",
+        "Explain AI agents as task-directed software assistants, not people or separate models",
+        "Describe Stage 4 as dominant without inventing a measured 99-percent share",
+        "Keep the methods report at three pages, without dates or version labels",
+        "Keep earlier storage snapshots in supporting methods documentation"
+      ],
+      "documents": [
+        {
+          "path": "Reading/Data_Collection_and_Analysis.pdf",
+          "pages": 3,
+          "sha256": "38dffaf614b0386ac8433c8e6cc5e5e9d09d49e4a0886ab0e7228a4a37beaeb6",
+          "unchanged_copy": false,
+          "previous_sha256": "4e2cfe9a71c9c7f9a965a019788021298c877638b14315fba009c690905b17e0"
+        }
+      ],
+      "other_two_reading_PDFs_byte_identical_to_baseline": true,
+      "clinical_history_PDF_unchanged": true,
+      "data_sources_rules_and_reproduction_files_unchanged": [
+        "Data/DATA_DICTIONARY.md",
+        "Data/Results/original_classifications.csv",
+        "Data/Results/record_inventory.csv",
+        "Data/Results/reported_symptoms.csv",
+        "Data/Results/symptom_combinations.csv",
+        "Data/Results/symptom_counts.csv",
+        "Data/Results/treatment_mentions.csv",
+        "Data/annotated_records.csv",
+        "Data/author_links.csv",
+        "Data/category_definitions.csv",
+        "Data/field_values.json",
+        "Data/known_account_links.csv",
+        "Data/text_units.csv",
+        "Data/treatment_group_membership.csv",
+        "Sources/all_posts.csv",
+        "Sources/all_posts.json",
+        "Sources/initial_posts.csv",
+        "Sources/initial_posts.json",
+        "Reproduce/README.md",
+        "Reproduce/rebuild_tables.py",
+        "Reproduce/requirements.txt",
+        "Methods/counting_rules.json",
+        "Methods/treatment_name_groups.json",
+        "Methods/Archived_AI_Extraction_Protocol.md",
+        "Provenance/archive_input_bindings.json",
+        "Provenance/source_bindings.json",
+        "Provenance/original_supplied_links.txt",
+        "Provenance/public_projection.json"
+      ],
+      "numeric_display_fields_equal_to_previous_build": [
+        "display_selection",
+        "core_table",
+        "selected_table",
+        "difference_table",
+        "combination_table",
+        "input_bindings"
+      ],
+      "results_PDF_numeric_tokens_equal_page_by_page": true,
+      "changed_reading_pages_visually_inspected": 3,
+      "other_5_reading_pages_prior_visual_QA_retained": true,
+      "exact_stage4_time_and_storage_percentage_established": false,
+      "agent_definition_reference": "https://learn.chatgpt.com/docs/glossary",
+      "authoring_script_archive_relative_path": "work/publication_planning/editorial_2026-11-27_storage_notes/build_reading_documents.py",
+      "authoring_script_sha256": "4239ba0de6a36d354f9b6cd3701407eb078ffe734807bd034d82aa3cbd93ff36"
+    }
+  ],
+  "current_reading_documents": [
+    {
+      "path": "Reading/Study_Overview.pdf",
+      "pages": 1,
+      "sha256": "1f29d926bb7de13fe9c3843d87e9e9887619b36ac40e9998f8307be3fe3f4094",
+      "unchanged_copy": false
+    },
+    {
+      "path": "Reading/Data_Collection_and_Analysis.pdf",
+      "pages": 3,
+      "sha256": "38dffaf614b0386ac8433c8e6cc5e5e9d09d49e4a0886ab0e7228a4a37beaeb6",
+      "unchanged_copy": false
+    },
+    {
+      "path": "Reading/Descriptive_Results.pdf",
+      "pages": 4,
+      "sha256": "6893e6bb25969716948c8c275ef48167caf8e6b3c75c9f10f9c4d8c396aa1d61",
+      "unchanged_copy": false
+    }
+  ]
 }

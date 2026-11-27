@@ -14,6 +14,7 @@ main{max-width:890px;margin:48px auto;padding:0 28px 50px}h1{font-size:34px;line
 <h1>Long COVID: AI-agent-led evidence processing</h1>
 <p class="subtitle">A compact guide to selected online accounts, their processing and the descriptive findings.</p>
 <p>Most collection, extraction, reconciliation and technical checking was executed by AI agents under the patient's direction. The medical team is responsible for interpretation, validation and case-report writing under the <a href="https://www.care-statement.org/checklist">CARE guidelines</a>.</p></header>
+<p>An <strong>AI agent</strong> is a software assistant given a task and instructions. It can read material, use tools and save results, rather than only answer questions. Here, separate agent tasks extracted information, compared outputs and checked files. Agents are not people; different tasks can use the same AI model.</p>
 <h2>Read these first</h2>
 <ol class="documents">
 <li><a href="Reading/Study_Overview.pdf"><strong>Study overview</strong></a><p>One page explaining how to read the counts.</p></li>
@@ -37,8 +38,12 @@ main{max-width:890px;margin:48px auto;padding:0 28px 50px}h1{font-size:34px;line
 </tbody></table>
 <p class="small">Medical review was historically called Stage 8. It remains separate from these seven execution stages.</p>
 <h2>What the effort does—and does not—show</h2>
+<p><strong>Stage 4 dominated the processing effort and storage.</strong> Separate extractions, corrections and repeated checks saved many working copies, not additional testimonies. An exact percentage of total time or storage was not measured.</p>
 <p>The historical review recorded 293.51 hours of main-agent task duration and 1,213 subagent task identities through 11 November 2026. Task duration includes waiting and I/O; it is not measured GPU or inference time.</p>
 <p>The effort and large historical archive produced concise descriptive findings, not a large independent clinical cohort. AI interpretation can be wrong, and separate agents can share errors. There is no benchmark demonstrating an advantage over a simpler workflow.</p>
+<h2>Where the files are kept</h2>
+<p>The full pipeline archive is kept on an <strong>external HDD (hard disk drive)</strong>: a large-capacity disk containing collected sources, intermediate data, scripts, rejected attempts, checks and final outputs.</p>
+<p><strong>NVMe</strong> refers here to the computer's fast internal solid-state drive, used for current work. After verified archiving, bulky intermediate copies were removed from that drive; working essentials were kept. This shared repository contains only selected data, reports, methods and recounting tools. Most intermediate material is omitted here, not deleted from the HDD archive.</p>
 <h2>For someone checking the results</h2>
 <p><a href="Sources/initial_posts.csv">Initial source list</a> · <a href="Sources/all_posts.csv">Complete source list</a> · <a href="Data/Results/reported_symptoms.csv">Reported symptom table</a> · <a href="Data/Results/treatment_mentions.csv">Treatment mentions</a></p>
 <p>The matching JSON catalogues and tables of labelled details are in the same folders. The <a href="Data/DATA_DICTIONARY.md">data guide</a> explains their fields. <a href="Methods/AI_Methods.md">AI methods</a> explains the model records and limitations.</p>

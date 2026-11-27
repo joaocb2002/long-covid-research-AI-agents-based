@@ -43,7 +43,7 @@ Fresh LLM extraction may produce different annotations. Reproducing the calculat
 
 - Selection deliberately sought symptom overlap. These are not representative prevalence estimates.
 - AI agents made interpretative decisions. Separate passes reduce some errors but can share the same biases. Clinical validation remains separate.
-- Accounts were anonymised within posts. Documented cross-post links are used, but complete global account matching is not established. Account reports are not a verified number of distinct patients.
+- Accounts usernames were anonymised. Although unlikely, a patient can report similar symtoms from different accounts.
 - The effort was substantial relative to the concise, descriptive findings. Repeated audit packages enlarged storage without adding independent testimonies. No benchmark establishes that this workflow outperforms a simpler one.
 
 The included clinical PDF was supplied later for case writing. Earlier extraction used Clinical Picture v3.1; the final analytical comparison used v4.0. The later PDF was not retrospectively substituted as their original input. [Clinical-reference roles](Provenance/clinical_reference_roles.json) records this distinction.

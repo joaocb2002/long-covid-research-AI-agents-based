@@ -2,7 +2,7 @@
 
 This project collected and organised online illness accounts with features overlapping one patient's clinical history. It provides **supporting material for a clinician-written case report**, not a diagnosis, a clinical study of verified patients, or the case report itself. The medical team intends to follow the [CARE case-report guidelines](https://www.care-statement.org/checklist).
 
-**Most collection, extraction, reconciliation and technical checking was executed by AI agents**, under the patient's direction. The patient selected the initial links and supplied clinical information. Doctors remain responsible for clinical interpretation, validation and writing.
+**Most of the collection, extraction, reconciliation, and technical verification was performed by AI agents** under the direction of the patient, a Research Scholar at the Institute for Systems and Robotics (ISR) and a PhD candidate in Artificial Intelligence and Robotics at Instituto Superior Técnico, University of Lisbon. The patient selected the initial links and supplied clinical information. Doctors remain responsible for clinical interpretation, validation and writing.
 
 ## Start with these documents
 

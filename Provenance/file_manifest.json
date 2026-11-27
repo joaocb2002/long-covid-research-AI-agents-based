@@ -16,6 +16,13 @@
       "status": "included"
     },
     {
+      "path": ".nojekyll",
+      "purpose": "Serve static package files without Jekyll processing",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "included"
+    },
+    {
       "path": "Clinical_Case/Long Covid - Clinical History and Treatment Course - João CB.pdf",
       "purpose": "Identified patient-provided case-writing reference",
       "bytes": 869203,
@@ -149,8 +156,8 @@
     {
       "path": "Methods/Processing_Workflow.md",
       "purpose": "Processing, AI methods or fixed counting definitions",
-      "bytes": 4938,
-      "sha256": "f5e16945f9e86dc77251adb131ceffeea8482e8698f86d30b7a2ac0774f48273",
+      "bytes": 5430,
+      "sha256": "779bd2f77c202d182f1b6fbd341a7d89754778a1b1672dddec2fa7d9ee5998cc",
       "status": "included"
     },
     {
@@ -170,15 +177,15 @@
     {
       "path": "Provenance/README.md",
       "purpose": "Origin, transformation or integrity record",
-      "bytes": 1869,
-      "sha256": "2cf1a2b19959313ea631e43bb751cbe0a6541f059c49ddf7be0300e7dec1f351",
+      "bytes": 2440,
+      "sha256": "31190df445c3f7fc9a47a563cb6fe8e2b9e7fa027a95c05478f25d174b2f5983",
       "status": "included"
     },
     {
       "path": "Provenance/VALIDATION.json",
       "purpose": "Bounded packaging and independent recount checks",
-      "bytes": 2203,
-      "sha256": "cf709f918b17161742d5f7a91f825ae244bf458c5a1685345664ae70a545a84c",
+      "bytes": 3439,
+      "sha256": "455fe9adfb1cc638efec48dd0d8d15497a97ab50a4ccf25731763f683aa8c219",
       "status": "included"
     },
     {
@@ -191,8 +198,8 @@
     {
       "path": "Provenance/clinical_reference_roles.json",
       "purpose": "Origin, transformation or integrity record",
-      "bytes": 624,
-      "sha256": "0182b45ee1bc5eea37e1fbade1acfc1e30fadb3d6b80c6ab187cea151f5599ae",
+      "bytes": 1420,
+      "sha256": "8196d76d7d40125c846df4238b5d6b5e8eb1deada411bc866e2c7246a99812d0",
       "status": "included"
     },
     {
@@ -207,6 +214,13 @@
       "purpose": "Origin, transformation or integrity record",
       "bytes": 1826,
       "sha256": "84f876b6b028b4b3dd5dc4e35b531be6765999cae1317c1638df7e5f47e3d6f4",
+      "status": "included"
+    },
+    {
+      "path": "Provenance/reading_document_updates.json",
+      "purpose": "Origin, transformation or integrity record",
+      "bytes": 3329,
+      "sha256": "fbd7f755c858320a95d1e6d950ae21595777e42e443f6150ddc5ad88aea5a9b1",
       "status": "included"
     },
     {
@@ -226,8 +240,8 @@
     {
       "path": "README.md",
       "purpose": "Project scope, reading order, stages and limits",
-      "bytes": 5297,
-      "sha256": "d3e8e14cf7d26b0ce0a4c0ae476ead9ebfbfe219b4cf779b91f5bedd781a0dcc",
+      "bytes": 6139,
+      "sha256": "6c45337f8633f5901879254efeb8a5c43be46450724b2c3e30d224a290e50a65",
       "status": "included"
     },
     {
@@ -239,23 +253,23 @@
     },
     {
       "path": "Reading/Data_Collection_and_Analysis.pdf",
-      "purpose": "Unchanged final reading document under a descriptive filename",
-      "bytes": 74091,
-      "sha256": "25911056afb408c579f65ab9e2d0302810f8a82bdafe1957e883bfb91830bdcc",
+      "purpose": "Edited human-readable document; original numerical results preserved",
+      "bytes": 73765,
+      "sha256": "4e2cfe9a71c9c7f9a965a019788021298c877638b14315fba009c690905b17e0",
       "status": "included"
     },
     {
       "path": "Reading/Descriptive_Results.pdf",
-      "purpose": "Unchanged final reading document under a descriptive filename",
-      "bytes": 74677,
-      "sha256": "3b60a8f147f19d4d0f49c649007227f0e2a21ee75f6aa6ec071829e9b42990d9",
+      "purpose": "Edited human-readable document; original numerical results preserved",
+      "bytes": 74353,
+      "sha256": "6893e6bb25969716948c8c275ef48167caf8e6b3c75c9f10f9c4d8c396aa1d61",
       "status": "included"
     },
     {
       "path": "Reading/Study_Overview.pdf",
-      "purpose": "Unchanged final reading document under a descriptive filename",
-      "bytes": 66238,
-      "sha256": "440b27b651774efd1ac191082655f69f13a5eced864cc2a0bf8f8ef8f2815b08",
+      "purpose": "Edited human-readable document; original numerical results preserved",
+      "bytes": 66042,
+      "sha256": "1f29d926bb7de13fe9c3843d87e9e9887619b36ac40e9998f8307be3fe3f4094",
       "status": "included"
     },
     {
@@ -281,9 +295,9 @@
     },
     {
       "path": "START_HERE.html",
-      "purpose": "Offline human-readable introduction",
-      "bytes": 6113,
-      "sha256": "7abab8fa17558f2dc52d5c901adc8b08e9ef9d3bbdce41aa22c98d76788a0e03",
+      "purpose": "GitHub Pages and offline human-readable introduction",
+      "bytes": 6735,
+      "sha256": "fa8eb85c133ffeded8817d960948576329435799685b6d9fc137943c25e44d79",
       "status": "included"
     },
     {
@@ -314,6 +328,13 @@
       "purpose": "Initial or complete source catalogue",
       "bytes": 58002,
       "sha256": "796242d90931951558e71512c2608ca5e513eeb2f75796ed7c711742f841df2b",
+      "status": "included"
+    },
+    {
+      "path": "index.html",
+      "purpose": "Root landing page redirect to START_HERE.html",
+      "bytes": 447,
+      "sha256": "5a97366f6e6b32f9170b0b096a7322cf1aced84ac7316b42d05924251afffe09",
       "status": "included"
     }
   ],

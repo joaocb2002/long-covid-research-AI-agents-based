@@ -2,12 +2,24 @@
   "included_clinical_history": {
     "path": "Clinical_Case/Long Covid - Clinical History and Treatment Course - João CB.pdf",
     "sha256": "a78d3e0d272d7c0766d4ece41e129d5d63d6ee4ca36a3ec02d138079068afee0",
-    "role": "Later user-supplied case-writing reference; not retroactively substituted as an original pipeline input"
+    "role": "Current patient-provided case-writing reference; the same patient's written history was expanded and clarified over time",
+    "historical_input_status": "Supplied after the earlier analytical anchors; not substituted into their historical runs"
   },
   "original_analysis_anchor": {
     "version": "Clinical Picture v4.0",
     "archive_relative_path": "work/clinical_picture/v4/Clinical Picture.md",
-    "sha256": "160865d035267cdbb9637ac5a057ec10df7a159eb0afe6ab13f22a9ff47d070b"
+    "sha256": "160865d035267cdbb9637ac5a057ec10df7a159eb0afe6ab13f22a9ff47d070b",
+    "role": "Anchor for the final Stage 6 case comparison"
   },
+  "historical_stage4_anchor": {
+    "version": "Clinical Picture v3.1",
+    "archive_relative_path": "work/clinical_picture/v3/Clinical Picture.md",
+    "sha256": "c43d95036f68185c19dd595ea671518a3174311885f1e6f6b174a4134c135fa7"
+  },
+  "initial_frozen_clinical_description": {
+    "archive_relative_path": "checkpoints/2026-09-27_step1_corpus_freeze_v1/raw_inputs/user_supplied/Clinical Picture.md",
+    "sha256": "7845838be4ae6b2041f9f83549a643bfb0e63d302dc6e936e1d5cc5d2694ef6e"
+  },
+  "project_continuity": "Same patient and core clinical presentation, with evolving written documentation",
   "analytical_reprocessing_during_packaging": false
 }

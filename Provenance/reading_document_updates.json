@@ -1,0 +1,80 @@
+{
+  "scope": "Editorial clarification and web presentation only; no re-extraction, regrading or clinical reanalysis",
+  "date": "2026-11-27",
+  "baseline_commit": "d45afdc9ba33f3163f7b250c91b3535187974841",
+  "changes": [
+    "Explain category-labelled details in ordinary language, with examples",
+    "Use current document titles and filenames throughout the reading PDFs",
+    "Remove visible dates, version labels and stale internal paths from reading PDFs",
+    "Remove creation/modification dates from reading PDF metadata only",
+    "Present seven processing stages, with medical review separate",
+    "Provide a GitHub Pages reading page and root landing redirect",
+    "Describe the same patient/core clinical case without changing document history"
+  ],
+  "documents": [
+    {
+      "path": "Reading/Study_Overview.pdf",
+      "pages": 1,
+      "sha256": "1f29d926bb7de13fe9c3843d87e9e9887619b36ac40e9998f8307be3fe3f4094",
+      "unchanged_copy": false,
+      "previous_sha256": "440b27b651774efd1ac191082655f69f13a5eced864cc2a0bf8f8ef8f2815b08"
+    },
+    {
+      "path": "Reading/Data_Collection_and_Analysis.pdf",
+      "pages": 3,
+      "sha256": "4e2cfe9a71c9c7f9a965a019788021298c877638b14315fba009c690905b17e0",
+      "unchanged_copy": false,
+      "previous_sha256": "25911056afb408c579f65ab9e2d0302810f8a82bdafe1957e883bfb91830bdcc"
+    },
+    {
+      "path": "Reading/Descriptive_Results.pdf",
+      "pages": 4,
+      "sha256": "6893e6bb25969716948c8c275ef48167caf8e6b3c75c9f10f9c4d8c396aa1d61",
+      "unchanged_copy": false,
+      "previous_sha256": "3b60a8f147f19d4d0f49c649007227f0e2a21ee75f6aa6ec071829e9b42990d9"
+    }
+  ],
+  "clinical_history_PDF_unchanged": true,
+  "data_sources_rules_and_reproduction_files_unchanged": [
+    "Data/DATA_DICTIONARY.md",
+    "Data/Results/original_classifications.csv",
+    "Data/Results/record_inventory.csv",
+    "Data/Results/reported_symptoms.csv",
+    "Data/Results/symptom_combinations.csv",
+    "Data/Results/symptom_counts.csv",
+    "Data/Results/treatment_mentions.csv",
+    "Data/annotated_records.csv",
+    "Data/author_links.csv",
+    "Data/category_definitions.csv",
+    "Data/field_values.json",
+    "Data/known_account_links.csv",
+    "Data/text_units.csv",
+    "Data/treatment_group_membership.csv",
+    "Sources/all_posts.csv",
+    "Sources/all_posts.json",
+    "Sources/initial_posts.csv",
+    "Sources/initial_posts.json",
+    "Reproduce/README.md",
+    "Reproduce/rebuild_tables.py",
+    "Reproduce/requirements.txt",
+    "Methods/counting_rules.json",
+    "Methods/treatment_name_groups.json",
+    "Methods/Archived_AI_Extraction_Protocol.md",
+    "Provenance/archive_input_bindings.json",
+    "Provenance/source_bindings.json",
+    "Provenance/original_supplied_links.txt",
+    "Provenance/public_projection.json"
+  ],
+  "numeric_display_fields_equal_to_previous_build": [
+    "display_selection",
+    "core_table",
+    "selected_table",
+    "difference_table",
+    "combination_table",
+    "input_bindings"
+  ],
+  "results_PDF_numeric_tokens_equal_page_by_page": true,
+  "all_reading_pages_visually_inspected": 8,
+  "authoring_script_archive_relative_path": "work/publication_planning/editorial_2026-11-27_readability/build_reading_documents.py",
+  "authoring_script_sha256": "a8c68ef3c02c74ad1eb8e71a3c033dadc0655eb4ddeef50ac18624c43d1c57b6"
+}

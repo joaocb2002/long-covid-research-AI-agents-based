@@ -12,7 +12,7 @@ Ordinary page controls were used to expand replies. Access barriers were recorde
 
 ## Rules, organisation and extraction
 
-Stage 1 checked and froze the collection after the initial gathering. Stage 2 defined 74 descriptive concepts and allowed field values. Stage 3 separated source passages and comments, attached source-local author labels, and retained locators. A single comment could contain several coded statements.
+Stage 1 checked and froze the collection after the initial gathering. Stage 2 defined 74 descriptive concepts and allowed field values. Stage 3 separated source passages and comments, attached source-local author labels, and retained locators. A single comment could contain several separately recorded details, sometimes called coded statements. Here, coding means assigning a category label, not programming. For example, a sentence about headaches after COVID and relief with a medicine can contribute separate details about a symptom, timing and treatment response.
 
 Stage 4 used independent extraction passes, source-grounded reconciliation and technical/semantic audits. Symptoms, chronology, treatments, tests, diagnostic claims, hypotheses and function/safety statements were recorded separately. Presence, denial and uncertainty were not interchangeable. Similar symptoms did not establish the same diagnosis or cause.
 
@@ -34,4 +34,4 @@ Records are projected from the final master without re-extraction or regrading. 
 
 The included historical extraction protocol is a dated method record. Its old file paths, clinical-anchor version and planned gates are not instructions to run this package or evidence that every planned condition was achieved. The present reproduction script uses only this folder.
 
-The patient-provided clinical PDF supports case writing. It postdates the earlier analytical anchors. Publication decisions, medical review and any future change to the analysis remain the medical team's responsibility under CARE and the applicable research/privacy arrangements.
+The project concerns the same patient and core clinical presentation throughout. The written history was expanded and clarified over time; the included patient-provided PDF is the current reference for case writing. The earlier analytical documents remain identified in provenance rather than being retrospectively replaced. Publication decisions, medical review and any future change to the analysis remain the medical team's responsibility under CARE and the applicable research/privacy arrangements.

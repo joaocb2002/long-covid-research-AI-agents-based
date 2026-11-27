@@ -20,26 +20,27 @@
     },
     "network_required": false,
     "LLM_required": false,
-    "scope": "Recounts released annotations; does not independently validate their interpretation."
+    "scope": "Recounts released annotations; does not independently validate their interpretation.",
+    "files_checksum_verified": 0
   },
-  "unchanged_PDF_copies": [
+  "PDF_documents": [
     {
       "path": "Reading/Study_Overview.pdf",
       "pages": 1,
-      "sha256": "440b27b651774efd1ac191082655f69f13a5eced864cc2a0bf8f8ef8f2815b08",
-      "unchanged_copy": true
+      "sha256": "1f29d926bb7de13fe9c3843d87e9e9887619b36ac40e9998f8307be3fe3f4094",
+      "unchanged_copy": false
     },
     {
       "path": "Reading/Data_Collection_and_Analysis.pdf",
       "pages": 3,
-      "sha256": "25911056afb408c579f65ab9e2d0302810f8a82bdafe1957e883bfb91830bdcc",
-      "unchanged_copy": true
+      "sha256": "4e2cfe9a71c9c7f9a965a019788021298c877638b14315fba009c690905b17e0",
+      "unchanged_copy": false
     },
     {
       "path": "Reading/Descriptive_Results.pdf",
       "pages": 4,
-      "sha256": "3b60a8f147f19d4d0f49c649007227f0e2a21ee75f6aa6ec071829e9b42990d9",
-      "unchanged_copy": true
+      "sha256": "6893e6bb25969716948c8c275ef48167caf8e6b3c75c9f10f9c4d8c396aa1d61",
+      "unchanged_copy": false
     },
     {
       "path": "Clinical_Case/Long Covid - Clinical History and Treatment Course - João CB.pdf",
@@ -49,6 +50,37 @@
     }
   ],
   "local_links_checked": 22,
+  "data_and_calculation_inputs_byte_identical_to_baseline": [
+    "Data/DATA_DICTIONARY.md",
+    "Data/Results/original_classifications.csv",
+    "Data/Results/record_inventory.csv",
+    "Data/Results/reported_symptoms.csv",
+    "Data/Results/symptom_combinations.csv",
+    "Data/Results/symptom_counts.csv",
+    "Data/Results/treatment_mentions.csv",
+    "Data/annotated_records.csv",
+    "Data/author_links.csv",
+    "Data/category_definitions.csv",
+    "Data/field_values.json",
+    "Data/known_account_links.csv",
+    "Data/text_units.csv",
+    "Data/treatment_group_membership.csv",
+    "Sources/all_posts.csv",
+    "Sources/all_posts.json",
+    "Sources/initial_posts.csv",
+    "Sources/initial_posts.json",
+    "Reproduce/README.md",
+    "Reproduce/rebuild_tables.py",
+    "Reproduce/requirements.txt",
+    "Methods/counting_rules.json",
+    "Methods/treatment_name_groups.json",
+    "Methods/Archived_AI_Extraction_Protocol.md",
+    "Provenance/archive_input_bindings.json",
+    "Provenance/source_bindings.json",
+    "Provenance/original_supplied_links.txt",
+    "Provenance/public_projection.json"
+  ],
+  "displayed_numerical_results_unchanged": true,
   "no_external_HTML_assets_or_scripts": true,
   "known_credential_pattern_scan": "no matches",
   "narrative_fields_omitted": true,
@@ -58,5 +90,5 @@
   "privacy_or_ethics_approval_claimed": false,
   "LLM_reexecution_claimed": false,
   "size_cap_bytes_unpacked": 1000000000,
-  "visual_QA": "Unchanged reading PDFs retain prior visual QA; renamed copies are hash-identical. Clinical PDF is an unchanged user-supplied file."
+  "visual_QA": "All eight edited reading pages were rendered and visually inspected; no clipping, overlap or stale date/version labels. Clinical PDF remains the unchanged user-supplied file."
 }
